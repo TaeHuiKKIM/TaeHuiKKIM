@@ -187,7 +187,7 @@
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Web%20Live-238636?style=flat-square)
-![Release](https://img.shields.io/badge/Release-v138-0064FF?style=flat-square)
+![Release](https://img.shields.io/badge/Release-v162-0064FF?style=flat-square)
 ![Distribution](https://img.shields.io/badge/Distribution-Play%20·%20ONE%20·%20Toss-0064FF?style=flat-square)
 ![QA](https://img.shields.io/badge/QA-Vitest%20·%20Playwright-2EAD33?style=flat-square)
 
@@ -195,13 +195,13 @@
   핵심이 3D·물리 연산보다 시세 계산, 매매, 카드·모달·차트였기 때문에 Unity나 무거운 프레임워크 대신 **Vanilla JavaScript + ES Modules**를 선택했습니다. 빌드리스 정적 구조는 PWA와 Android TWA로 이식하기도 쉬웠습니다.
 
 - **깨지지 않는 저장과 방치 경제**<br/>
-  체크섬과 쓰기 후 검증이 있는 버전형 이중 슬롯 저장, 오래된 탭의 덮어쓰기 방지와 오프라인 보상 중복 정산 방어를 구현했습니다.
+  체크섬과 쓰기 후 검증이 있는 버전형 이중 슬롯 저장, 오래된 탭의 덮어쓰기 방지와 오프라인 보상 중복 정산 방어를 구현했습니다. 첫 시작, 출근 보상과 업그레이드는 저장 성공 뒤에만 화면 이펙트를 진행하도록 막았습니다.
 
 - **계산과 렌더링의 속도를 분리**<br/>
-  가격 계산과 무거운 HUD 렌더 주기를 나누고, 가시 영역의 차트만 증분 갱신해 모바일에서도 불필요한 작업을 줄였습니다.
+  가격 계산과 무거운 HUD 렌더 주기를 나누고, 가시 영역의 차트만 증분 갱신해 모바일에서도 불필요한 작업을 줄였습니다. 시작 화면은 승인된 캐릭터와 필수 튜토리얼 이미지를 먼저 디코드하고, 나머지 장면은 단계적으로 예열합니다.
 
 - **스토어마다 다른 배포 계약을 코드로 분리**<br/>
-  Google Play-first <code>main</code>, ONE store 제출 브랜치와 Apps in Toss 프리뷰·제출 브랜치로 정책 경계를 나눴습니다. Vitest·Playwright와 프로덕션 검증기로 경제식, 저장 복구, 접근성, 반응형 UI와 금지 콘텐츠를 확인합니다.
+  Google Play-first <code>main</code>, ONE store 제출 브랜치와 Apps in Toss 프리뷰·제출 브랜치로 정책 경계를 나눴습니다. Vitest 394개, Playwright UI 140개, 전문 QA 4개와 프로덕션 검증기로 경제식, 저장 복구, 접근성, 반응형 UI와 금지 콘텐츠를 확인합니다.
 
 - **실제 투자와 선을 긋는 운영 원칙**<br/>
   투자 조언·도박·현금 보상과 무관한 엔터테인먼트임을 명시하고 실제 상장사와 무관한 가상 종목만 사용합니다.
