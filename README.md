@@ -9,7 +9,7 @@
 
 <br/>
 
-![GPA](https://img.shields.io/badge/GPA-4.18%20/%204.3-1f6feb?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-4.21%20/%204.3-1f6feb?style=for-the-badge)
 ![TOEIC](https://img.shields.io/badge/TOEIC-925-0a7d33?style=for-the-badge)
 ![ADsP](https://img.shields.io/badge/ADsP-취득-5319e7?style=for-the-badge)
 ![SQLD](https://img.shields.io/badge/SQLD-취득-5319e7?style=for-the-badge)
