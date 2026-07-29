@@ -145,6 +145,23 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
+## 4. 🛡️ KB 안심보이스 · 머니룰 — 시니어 금융 Agentic AI
+
+<sub>2026 KB AI Challenge · 팀 프로젝트 진행 중</sub>
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-d4a72c?style=flat-square)
+![Safety](https://img.shields.io/badge/Safety-Deterministic%20Rules-238636?style=flat-square)
+![Approval](https://img.shields.io/badge/Approval-One--time%20Token-1f6feb?style=flat-square)
+
+- 시니어 사용자가 음성과 텍스트로 금융 업무를 요청할 수 있는 에이전트를 개발하고 있습니다.
+- LLM은 의도 구조화와 설명을 담당하고, 실제 실행 가능 여부는 **결정론 규칙과 서버 코드**가 판단하도록 권한을 분리했습니다.
+- 중요한 거래는 사용자가 확인한 규칙과 **일회용 승인 토큰**을 모두 검증한 뒤에만 실행되도록 설계했습니다.
+- 외부 API 없이 재현하는 offline 모드와 실제 연동을 분리하고, 골든셋으로 안전 개입 단계를 평가하고 있습니다.
+
+> 대회 진행 중인 비공개 프로젝트로, 제출 이후 공개 가능한 구현과 평가 결과를 업데이트할 예정입니다.
+
+---
+
 <details>
 <summary><strong>📦 More Products & Experiments — 추가 프로젝트 8개 펼쳐보기</strong></summary>
 
