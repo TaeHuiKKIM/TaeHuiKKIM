@@ -42,7 +42,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-# Selected Work
+# Projects
 
 ## 1. 🩺 MediCPX — AI 표준화환자 플랫폼
 
