@@ -109,5 +109,15 @@ Captions are italicized and should be 8–24 Korean characters. They may be humo
 - Each of the nine Markdown drafts references exactly three `v2` generated images.
 - Only the four approved v1 technical diagrams remain referenced.
 - All referenced GitHub raw URLs return HTTP 200 after merge.
-- All nine Velog entries remain private drafts after their content is updated.
+- The already published AI learning-roadmap post remains published after its content is updated.
+- The other eight series entries remain private drafts after their content is updated.
 
+## Approved Scope Addendum — 2026-07-31
+
+The user asked to replace three weak thumbnails on the previously published Agentic AI posts. The targets are the financial safety post and the two older posts immediately before it:
+
+- `답변에서 저장까지 — Tool Call, Structured Output, SQLite로 이어진 3주`
+- `검색 함수 하나면 되는 줄 알았는데 ChromaDB, SQLite, 대화 기억을 나눈 이유`
+- `LLM이 돈을 움직이지 않게 설계하기 — 결정론 규칙과 승인 토큰`
+
+Create one text-free 16:9 scene-driven thumbnail for each under `assets/velog/recent-post-thumbnails/v2/`. Keep the posts published and leave their prose unchanged.

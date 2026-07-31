@@ -219,3 +219,30 @@ Verify the title remains unchanged, the three `v2` image URLs are present, the a
 - [ ] **Step 4: Finalize the browser session**
 
 Close all task tabs and leave no Velog editor tab open.
+
+### Task 7: Refresh three existing published-post thumbnails
+
+**Files:**
+- Create: `assets/velog/recent-post-thumbnails/v2/01-tool-call-to-sqlite.png`
+- Create: `assets/velog/recent-post-thumbnails/v2/02-source-aware-rag.png`
+- Create: `assets/velog/recent-post-thumbnails/v2/03-deterministic-financial-agent.png`
+
+**Interfaces:**
+- Consumes: The connected Velog profile order and recurring meme cast from the design spec.
+- Produces: Three public thumbnail URLs and three updated published posts.
+
+- [ ] **Step 1: Generate and inspect the three thumbnails**
+
+Use scene-driven metaphors for the structured-output pipeline, source-aware RAG, and deterministic financial approval. Require the same no-text, no-logo, no-watermark constraints as the main series.
+
+- [ ] **Step 2: Publish the assets**
+
+Include the three files in the same focused GitHub pull request as the main v2 artwork.
+
+- [ ] **Step 3: Replace the first image in each published post**
+
+Keep titles, prose, tags, URLs, and publication state unchanged.
+
+- [ ] **Step 4: Verify profile cards**
+
+Reload `https://velog.io/@kt_gml/posts` and confirm the three post cards use the new scene thumbnails.
