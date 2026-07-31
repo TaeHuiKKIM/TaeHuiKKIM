@@ -14,6 +14,7 @@
 ![ADsP](https://img.shields.io/badge/ADsP-취득-5319e7?style=for-the-badge)
 ![SQLD](https://img.shields.io/badge/SQLD-취득-5319e7?style=for-the-badge)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TaeHui%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehui-kim-930713412/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kt_gml/posts)
 [![Solved.ac](https://img.shields.io/badge/Solved.ac-1043tae-00C73C?style=for-the-badge)](https://solved.ac/1043tae/)
 [![Email](https://img.shields.io/badge/tae1043@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tae1043@gmail.com)
@@ -218,6 +219,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ## Links
 
+[![LinkedIn](https://img.shields.io/badge/프로필-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehui-kim-930713412/)
 [![Velog](https://img.shields.io/badge/개발%20기록-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kt_gml/posts)
 [![Solved.ac](https://img.shields.io/badge/알고리즘-Solved.ac-00C73C?style=for-the-badge)](https://solved.ac/1043tae/)
 [![Email](https://img.shields.io/badge/연락-tae1043@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tae1043@gmail.com)
