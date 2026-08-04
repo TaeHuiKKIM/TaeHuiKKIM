@@ -146,9 +146,12 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 4. 🛡️ KB 안심보이스 · 머니룰 — 시니어 금융 Agentic AI
+## 4. 🛡️ KB 머니룰 기반 안심보이스 — 시니어 금융 Agentic AI
 
 <sub>2026 KB AI Challenge · 팀 프로젝트 진행 중</sub>
+<p align="center">
+  <img width="620" alt="image" src="https://github.com/user-attachments/assets/4ae8d9ff-d05b-4a2b-b41e-f4497555bf0c" />
+</p>
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-d4a72c?style=flat-square)
 ![Safety](https://img.shields.io/badge/Safety-Deterministic%20Rules-238636?style=flat-square)
