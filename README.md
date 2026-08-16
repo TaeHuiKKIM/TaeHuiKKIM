@@ -82,7 +82,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 <sub>1인 기획·개발·운영 · Next.js 재구축</sub>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7b56c1e-774c-4695-87e3-5a4b8b3eef68" alt="Members Clinic 홈페이지 전체 화면" width="620"/>
+  <img src="assets/portfolio/members-home.png" alt="Members Clinic 홈페이지 전체 화면" width="620"/>
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
