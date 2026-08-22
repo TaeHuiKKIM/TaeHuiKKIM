@@ -45,7 +45,25 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 # Projects
 
-## 1. 🩺 MediCPX — AI 표준화환자 플랫폼
+## 1. 🏎️ AWS DeepRacer — Physical AI 경진대회 최우수상
+
+<sub>강화학습 전략 · 보상 함수 · 실차 튜닝</sub>
+
+![Award](https://img.shields.io/badge/Physical%20AI-최우수상-d4a72c?style=flat-square)
+![Models](https://img.shields.io/badge/Models-약%2050개-1f6feb?style=flat-square)
+![Direction](https://img.shields.io/badge/Track-Counterclockwise-238636?style=flat-square)
+
+- 학습·검증 병목을 줄이기 위해 가설 10개와 약 50개 모델을 병렬로 검증했습니다.
+- 시뮬레이터 6초대의 좌표 기반 정책이 실차에서 이탈한 원인을 카메라 지연과
+  전이되지 않는 위치 단서로 분석했습니다.
+- 좌표를 버리고 중앙선 추종·워블 억제·±20도 조향과 구간별 속도 제어를 채택해
+  **경북대 × 전남대 Physical AI 경진대회 최우수상**을 받았습니다.
+
+[![Repository](https://img.shields.io/badge/GitHub-DeepRacer%20기록-181717?style=for-the-badge&logo=github)](https://github.com/TaeHuiKKIM/deepracer-physical-ai)
+
+---
+
+## 2. 🩺 MediCPX — AI 표준화환자 플랫폼
 
 <sub>실시간 문진 · 자동 채점 · CODE-MEDI 해커톤 최우수상</sub>
 
@@ -77,7 +95,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 2. 🏥 Members Clinic — 첫 웹사이트에서 실제 운영 서비스까지
+## 3. 🏥 Members Clinic — 첫 웹사이트에서 실제 운영 서비스까지
 
 <sub>1인 기획·개발·운영 · Next.js 재구축</sub>
 
@@ -115,7 +133,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 3. 🛍️ MERCI — JSP·Servlet 커머스
+## 4. 🛍️ MERCI — JSP·Servlet 커머스
 
 <sub>백엔드 기본기 · 주문 트랜잭션 · 최우수 평가 및 장학금</sub>
 
@@ -146,7 +164,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 4. 🛡️ KB 머니룰 기반 안심보이스 — 시니어 금융 Agentic AI
+## 5. 🛡️ KB 머니룰 기반 안심보이스 — 시니어 금융 Agentic AI
 
 <sub>2026 KB AI Challenge · 팀 프로젝트 진행 중</sub>
 <p align="center">
@@ -215,9 +233,20 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ## Credentials & Activities
 
-- **GPA 4.21 / 4.3** · **TOEIC 925** · **ADsP** · **SQLD**
+### 🏆 Awards
+
+<p align="center">
+  <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" width="620"/>
+</p>
+
+- **경북대 × 전남대 Physical AI 경진대회(AWS DeepRacer) 최우수상**
+- **카카오테크캠퍼스 아이디어톤 우수상**
 - **CODE-MEDI 해커톤 최우수상** · 해달 해커톤 인기상 · 시흥 로컬 창업경진대회 장려상
 - 백엔드 프로젝트 최우수 평가 및 **장학금** 수혜
+
+### Credentials & Programs
+
+- **GPA 4.21 / 4.3** · **TOEIC 925** · **ADsP** · **SQLD**
 - 카카오테크캠퍼스 4기 · IT 프로그래밍 동아리 해달
 
 ## Links
