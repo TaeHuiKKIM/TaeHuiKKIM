@@ -195,7 +195,6 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 | **🗓️ 시간모아** | 로그인 없이 링크로 일정을 모으고 연속 가능한 시간을 추천 | Next.js, TypeScript, Supabase Postgres, SHA-256 토큰 |
 | **📄 ReadmePDF** | 파일을 서버에 보내지 않고 브라우저에서 Markdown·PDF 처리 | Next.js Static Export, pdf-lib, JSZip, 4개 언어 56개 경로 |
 | **💤 Free-Tier Sleep** | 12일 해커톤에서 두 장르를 연결한 메타픽션 게임 | Unity, C#, 인트로·팝업·절차적 오디오 담당 |
-| **🌙 기억을 싣는 밤열차** | 75초 전투 루프를 웹에서 검증하고 Unity로 이식 | JavaScript Canvas, Vite, Unity 6.3 |
 | **🧹 Photo Sweep** | 사진·EXIF를 서버에 보내지 않는 로컬 우선 Android 정리 앱 | Expo, React Native, TypeScript, 시스템 삭제 확인 |
 | **🎥 Virtual Face Cam** | OBS 기반 크로스플랫폼 버전과 macOS 네이티브 카메라 확장 도전 | Python, SwiftUI, CoreMediaIO |
 | **✨ Clinic Website Productization** | 병원 홈페이지 제작·SEO·영업 흐름을 반복 가능한 제품으로 구조화 | Next.js, 6개 테마, SEO Automation, Sales Kit |
@@ -204,7 +203,6 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 - [개미 투자자 키우기](https://ant-idle-game.vercel.app)
 - [ReadmePDF](https://web-readme-pdf-free-mrgf3o4gbe0b862a.sel3.cloudtype.app/)
-- [기억을 싣는 밤열차](https://rpg-2d-sepia.vercel.app)
 - [Virtual Face Cam](https://github.com/TaeHuiKKIM/virtual-face-cam)
 - [Virtual Face Cam for macOS](https://github.com/TaeHuiKKIM/virtual-face-cam-mac)
 
