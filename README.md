@@ -48,6 +48,9 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 ## 1. 🏎️ AWS DeepRacer — Physical AI 경진대회 최우수상
 
 <sub>강화학습 전략 · 보상 함수 · 실차 튜닝</sub>
+<p align="center">
+  <img width="620" alt="image" src="https://github.com/user-attachments/assets/e5486543-3981-4915-a043-5770d9361fc0" />
+</p>
 
 ![Award](https://img.shields.io/badge/Physical%20AI-최우수상-d4a72c?style=flat-square)
 ![Models](https://img.shields.io/badge/Models-약%2050개-1f6feb?style=flat-square)
