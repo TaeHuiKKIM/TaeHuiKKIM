@@ -38,7 +38,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 - **Antony Studio** — 개미 투자자 키우기 Apps in Toss 출시·운영 및 사용자 피드백 기반 개선
 - **Financial AI** — 미래에셋 AI Festival 제출작 RiskTwin · KB 머니룰 기반 안심보이스
-- **Reqover** — Spring 요청별 실행 메서드를 기록하고 변경 코드가 닿는 API를 찾는 Java Agent
+- **Reqover** — Spring 요청별 실행 메서드를 기록하고 변경 코드가 닿는 API를 찾는 오픈소스 도구
 - **TUG GUARD** — 예인줄 학습 데이터 생성부터 비전 모델 연동·위험 판단까지 연결한 해양 시뮬레이터
 - **카카오테크캠퍼스 Agentic AI** — Tool Call → Structured Output → SQLite → 출처별 RAG 학습
 - **Python · FastAPI** — AI Product/Backend 역량과 코딩테스트 기반 강화
