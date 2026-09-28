@@ -1,5 +1,7 @@
 # 2026-09-28 프로필 README 보완
 
+최신 후속 수정: [최신 지표·수상 복원 기록](2026-09-28-metrics-awards-update.md). 최신 출력은 `output/pdf/github-profile-readme-20260928-updated.pdf`이다. 아래 첫 게시판의 수치·파일명은 당시 기록이다.
+
 - 공개 저장소의 기존 README를 기준으로 소개, 배지, 기존 프로젝트 1~5 및 표·링크 형식을 보존했다.
 - 개미 투자자 키우기, 미래에셋 RiskTwin, Reqover, TUG GUARD를 6~9번 상세 프로젝트로 추가했다.
 - 추가 프로젝트에 Agent SEO Kit과 카카오테크캠퍼스 프로젝트를 보완했다.

@@ -14,7 +14,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT/'output/pdf/github-profile-readme-20260928.pdf'
+OUT = ROOT/'output/pdf/github-profile-readme-20260928-updated.pdf'
 OUT.parent.mkdir(parents=True, exist_ok=True)
 CACHE = ROOT/'tmp/pdf-assets'
 CACHE.mkdir(parents=True, exist_ok=True)
@@ -50,6 +50,13 @@ source=(ROOT/'README.md').read_text(encoding='utf-8')
 source=re.sub(r'</?(?:div|details)[^>]*>','',source)
 source=re.sub(r'<summary>(.*?)</summary>',r'\n### \1\n',source,flags=re.S)
 soup=BeautifulSoup(markdown.markdown(source,extensions=['tables']), 'html.parser')
+# Keep useful repository/contact links, omit launch/demo links in the PDF only.
+demo_hosts=('ant-idle-game.vercel.app','tugboat-safety-twin.vercel.app','membersclinic.com','web-readme-pdf-free-mrgf3o4gbe0b862a.sel3.cloudtype.app')
+for link in list(soup.find_all('a')):
+ if any(host in link.get('href','') for host in demo_hosts):
+  parent=link.parent
+  if parent.name in ('p','li') and parent.get_text(strip=True)==link.get_text(strip=True):parent.decompose()
+  else:link.decompose()
 flow=[]
 image_count=0
 def paragraph(n,style='p',prefix=''):

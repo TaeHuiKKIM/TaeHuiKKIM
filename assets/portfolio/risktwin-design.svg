@@ -2,7 +2,7 @@
 <rect width="1400" height="580" fill="#f6f8fa"/>
 <g font-family="Arial, sans-serif" fill="#1f2328">
 <text x="55" y="65" font-size="30" font-weight="bold">RiskTwin / Evidence-led financial risk review</text>
-<text x="55" y="100" font-size="18" fill="#59636e">Architecture concept · not a product screenshot</text>
+<text x="55" y="100" font-size="18" fill="#59636e">Agent architecture concept</text>
 <g stroke="#d0d7de" fill="white">
 <rect x="55" y="150" width="280" height="340"/>
 <rect x="420" y="150" width="480" height="340"/>
