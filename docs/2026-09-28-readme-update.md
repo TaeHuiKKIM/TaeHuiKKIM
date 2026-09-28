@@ -1,5 +1,7 @@
 # 2026-09-28 프로필 README 보완
 
+최종 세부 검수판: [배치 개선 기록](2026-09-28-portfolio-detail-polish.md), `output/pdf/김태희 포트폴리오-개선.pdf`.
+
 최신 후속 수정: [최신 지표·수상 복원 기록](2026-09-28-metrics-awards-update.md). 최신 출력은 `output/pdf/github-profile-readme-20260928-updated.pdf`이다. 아래 첫 게시판의 수치·파일명은 당시 기록이다.
 
 - 공개 저장소의 기존 README를 기준으로 소개, 배지, 기존 프로젝트 1~5 및 표·링크 형식을 보존했다.

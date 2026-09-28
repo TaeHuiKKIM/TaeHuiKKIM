@@ -14,7 +14,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT/'output/pdf/github-profile-readme-20260928-updated.pdf'
+OUT = ROOT/'output/pdf/김태희 포트폴리오-개선.pdf'
 OUT.parent.mkdir(parents=True, exist_ok=True)
 CACHE = ROOT/'tmp/pdf-assets'
 CACHE.mkdir(parents=True, exist_ok=True)
@@ -22,12 +22,13 @@ pdfmetrics.registerFont(TTFont('K', 'C:/Windows/Fonts/malgun.ttf'))
 pdfmetrics.registerFont(TTFont('KB', 'C:/Windows/Fonts/malgunbd.ttf'))
 pdfmetrics.registerFontFamily('K', normal='K', bold='KB', italic='K', boldItalic='KB')
 styles = {
- 'p': ParagraphStyle('p',fontName='K',fontSize=9,leading=14,spaceAfter=7,wordWrap='CJK'),
+ 'p': ParagraphStyle('p',fontName='K',fontSize=9.2,leading=15,spaceAfter=8,splitLongWords=False,allowWidows=0,allowOrphans=0),
  'h1': ParagraphStyle('h1',fontName='KB',fontSize=21,leading=29,spaceBefore=12,spaceAfter=13,keepWithNext=True),
  'h2': ParagraphStyle('h2',fontName='KB',fontSize=14,leading=21,spaceBefore=14,spaceAfter=10,keepWithNext=True),
  'h3': ParagraphStyle('h3',fontName='KB',fontSize=11,leading=17,spaceBefore=10,spaceAfter=8,keepWithNext=True),
- 'small': ParagraphStyle('small',fontName='K',fontSize=7.5,leading=11,spaceAfter=5,wordWrap='CJK',textColor=colors.HexColor('#57606a')),
+ 'small': ParagraphStyle('small',fontName='K',fontSize=7.8,leading=11.5,spaceAfter=5,splitLongWords=False,textColor=colors.HexColor('#57606a')),
 }
+styles['bullet']=ParagraphStyle('bullet',parent=styles['p'],leftIndent=10,firstLineIndent=-10)
 def clean(s):
  return re.sub('[\U0001F000-\U0001FAFF\u2600-\u27BF\ufe0f]', '', s).replace('−','-')
 def badge(n):
@@ -61,7 +62,7 @@ flow=[]
 image_count=0
 def paragraph(n,style='p',prefix=''):
  t=inline(n).strip()
- if t: flow.append(Paragraph(prefix+t,styles[style]))
+ if t: flow.append(Paragraph(prefix+t,styles['bullet' if prefix else style]))
 def image_group(nodes):
  global image_count
  nodes=[n for n in nodes if 'img.shields.io' not in n.get('src','')]
@@ -108,7 +109,7 @@ for n in soup.children:
   for li in n.find_all('li',recursive=False):paragraph(li,prefix='• ')
  elif n.name=='table':
   rows=[[Paragraph(inline(c),styles['small']) for c in tr.find_all(['th','td'])] for tr in n.find_all('tr')]
-  cols=len(rows[0]); widths=([120,210,161] if cols==3 else [491/cols]*cols)
+  cols=len(rows[0]); widths=([125,200,166] if cols==3 else [150,341] if cols==2 else [491/cols]*cols)
   t=Table(rows,colWidths=widths,repeatRows=1,hAlign='LEFT')
   t.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),colors.HexColor('#f6f8fa')),('LINEBELOW',(0,0),(-1,-1),.4,colors.HexColor('#d0d7de')),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),7),('RIGHTPADDING',(0,0),(-1,-1),7),('TOPPADDING',(0,0),(-1,-1),6),('BOTTOMPADDING',(0,0),(-1,-1),6)]))
   flow.extend([t,Spacer(1,9)])
@@ -133,8 +134,8 @@ for item in flow:
 if pending:grouped.append(KeepTogether(pending))
 def page(c,d):
  c.setFont('K',7);c.setFillColor(colors.HexColor('#57606a'))
- c.drawString(52,815,'TaeHuiKKIM / README · 2026-09-28')
+ c.drawString(52,26,'김태희')
  c.drawRightString(543,26,str(d.page))
-doc=SimpleDocTemplate(str(OUT),pagesize=(595.28,841.89),leftMargin=52,rightMargin=52,topMargin=48,bottomMargin=45,title='김태희 GitHub README',author='김태희')
+doc=SimpleDocTemplate(str(OUT),pagesize=(595.28,841.89),leftMargin=52,rightMargin=52,topMargin=48,bottomMargin=45,title='김태희 포트폴리오',author='김태희')
 doc.build(grouped,onFirstPage=page,onLaterPages=page)
 print({'output':str(OUT),'images':image_count,'bytes':OUT.stat().st_size})

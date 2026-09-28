@@ -3,3 +3,4 @@ markdown
 reportlab
 svglib
 pypdf
+Pillow
