@@ -2,7 +2,7 @@
 
 # 김태희 · TaeHui Kim
 
-### AI를 실제 제품에 연결하고, 배포 이후의 운영까지 책임지는 Product · Backend Developer
+### AI 제품을 만들고 운영하는 Product · Backend Developer
 
 경북대학교 글로벌소프트웨어융합전공 · 카카오테크캠퍼스 4기<br/>
 웹 서비스에서 시작해 백엔드, 실시간 AI, 모바일과 제품 운영으로 경험을 넓혀가고 있습니다.
@@ -38,8 +38,8 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 - **Antony Studio** — 개미 투자자 키우기 Apps in Toss 출시·운영 및 사용자 피드백 기반 개선
 - **Financial AI** — 미래에셋 AI Festival 제출작 RiskTwin · KB 머니룰 기반 안심보이스
-- **Reqover** — HTTP 요청별 실행 관계와 코드 변경 영향도를 추적하는 Java Agent 오픈소스
-- **TUG GUARD** — 예인선·예인줄과 합성 비전·IMU를 다루는 Three.js 해양 안전 시뮬레이터
+- **Reqover** — Spring 요청별 실행 메서드를 기록하고 변경 코드가 닿는 API를 찾는 Java Agent
+- **TUG GUARD** — 예인줄 학습 데이터 생성부터 비전 모델 연동·위험 판단까지 연결한 해양 시뮬레이터
 - **카카오테크캠퍼스 Agentic AI** — Tool Call → Structured Output → SQLite → 출처별 RAG 학습
 - **Python · FastAPI** — AI Product/Backend 역량과 코딩테스트 기반 강화
 - **종합설계프로젝트 준비** — 평가 가능한 신뢰성 중심 Agentic AI 주제 탐색
@@ -229,7 +229,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ## 8. 🔧 Reqover — 요청별 실행 관계를 추적하는 Java Agent
 
-<sub>Java · ASM · Spring MVC/WebFlux · 오픈소스 팀 프로젝트</sub>
+<sub>2인 오픈소스 팀 · 핵심 MVP 설계·구현 · Java Agent · ASM · Spring</sub>
 
 <p align="center">
   <img src="assets/portfolio/reqover-request-report.png" alt="Reqover 요청별 실제 실행 메서드 리포트" width="620"/>
@@ -239,26 +239,29 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 </p>
 <p align="center"><sub>공개 저장소의 요청별 실행 및 코드 → API 영향도 예제 리포트</sub></p>
 
-- HTTP 요청과 실행 메서드를 연결해 변경 코드가 영향을 줄 수 있는 API를 확인하는 개발 도구입니다.
-- 문제 정의와 제품 방향, core·계측·Java Agent·report·sample 설계 및 통합을 맡았습니다.
-- 2026-09-23 확인 기록: 개인 연결 커밋 44개·병합 PR 7개, 프로젝트 JDK 17·21 자동화 테스트 121개.
+- **문제 정의:** 기존 커버리지 리포트로는 메서드가 실행됐다는 사실은 알 수 있어도 어떤 HTTP 요청이 실행했는지 알기 어려웠습니다. 요청 단위로 실행 관계를 기록하는 방향을 공동 설계했습니다.
+- **내 구현:** 요청별 실행 bucket과 probe 라우팅, ASM 메서드 진입 계측, `-javaagent` 패키징, API → 메서드 리포트와 코드 → API 역방향 인덱스, 별도 JVM 에이전트 검증·데모를 만들었습니다.
+- **팀의 확장:** Spring MVC/WebFlux 어댑터는 함께 개선했습니다. 팀은 JSON 내보내기와 CLI `render`·`diff`·`impact`, GitHub Action을 더해 변경 파일에서 다시 확인할 API 후보를 제시하는 흐름으로 확장했습니다.
+- **검증 범위:** 메서드 진입과 실제 관측된 요청을 연결합니다. 줄·분기 커버리지를 측정하는 도구와 함께 사용할 수 있습니다.
 
 [reqover-labs/reqover](https://github.com/reqover-labs/reqover)
 
 ---
 
-## 9. ⚓ TUG GUARD — Three.js 해양 안전 디지털 트윈
+## 9. ⚓ TUG GUARD — 시뮬레이션부터 비전 추론까지 잇는 해양 안전 디지털 트윈
 
-<sub>Three.js · React Three Fiber · 합성 비전/IMU · FastAPI</sub>
+<sub>Three.js · React Three Fiber · 학습용 합성 데이터 · YOLO-Seg 연동 · FastAPI</sub>
 
 <p align="center">
   <img src="assets/portfolio/tugguard-live.png" alt="TUG GUARD 실제 Three.js 전체 보기와 시연 조작 패널" width="720"/>
 </p>
 <p align="center"><sub>TUG GUARD · 3D 시뮬레이터와 시연 조작 패널</sub></p>
 
-- 항만·대형선·예인선·예인줄을 조작하는 **3D 시뮬레이터**를 개발했습니다.
-- 예인줄 Sag 데이터 생성, 100Hz 합성 IMU, FastAPI 분석 서버 연결을 구현했습니다.
-- 합성 비전·IMU 데이터를 활용해 예인 시나리오를 재현하는 시뮬레이터입니다.
+- **시뮬레이터:** 본선·ASD 예인선·예인줄을 조작하는 Three.js 장면과 고정 CCTV 시점을 구현했습니다. 방향·줄 길이·속력·시간대를 바꿔 시나리오를 재현합니다.
+- **내가 만든 학습 데이터 흐름:** 예인줄 Sag 단계와 시점·조명·해상 조건을 달리한 RGB 이미지, 픽셀 마스크, YOLO-Seg 폴리곤 라벨을 생성했습니다. 렌더 지오메트리로 정답을 만들고 가려진 줄은 마스크에서 제외했습니다.
+- **멀티모달 기록:** 하나의 시뮬레이션 시계를 기준으로 24 FPS 영상과 100 Hz 합성 IMU를 기록하고 시각·프레임·센서값의 정합성을 검사했습니다.
+- **AI 연동과 위험 판단:** 팀이 학습한 예인줄 분할 모델을 FastAPI 분석 서버에 연결했습니다. 예측 마스크의 품질, 줄 처짐 변화, 영상 각도와 IMU 횡경사를 시간에 따라 결합해 경보 상태를 계산했습니다.
+- **검증:** 분할 라벨 변환·영상/IMU 동기화·서버 응답·경보 지속/회복 조건을 재현 가능한 시나리오와 테스트로 확인했습니다. 모델 학습·평가는 팀 작업이며, 실선 사고 데이터로 검증한 안전 인증 시스템은 아닙니다.
 
 [ShipTugging/tugboat-safety-twin](https://github.com/ShipTugging/tugboat-safety-twin)
 
@@ -311,7 +314,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 | **Data** | MySQL · PostgreSQL · SQLite · Supabase · ChromaDB |
 | **Delivery & Test** | Docker · GitHub Actions · Vercel · Cloudtype · Vitest · Playwright · Pytest |
 | **Other Platforms** | React Native · Expo · Unity · C# · SwiftUI |
-| **3D & Simulation** | Three.js · React Three Fiber · 합성 비전/IMU |
+| **3D & Vision** | Three.js · React Three Fiber · YOLO-Seg 학습 데이터 · 합성 비전/IMU |
 
 ## Credentials & Activities
 
