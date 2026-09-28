@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="580" viewBox="0 0 1400 580">
+<rect width="1400" height="580" fill="#f6f8fa"/>
+<g font-family="Arial, sans-serif" fill="#1f2328">
+<text x="55" y="65" font-size="30" font-weight="bold">RiskTwin / Evidence-led financial risk review</text>
+<text x="55" y="100" font-size="18" fill="#59636e">Architecture concept · not a product screenshot</text>
+<g stroke="#d0d7de" fill="white">
+<rect x="55" y="150" width="280" height="340"/>
+<rect x="420" y="150" width="480" height="340"/>
+<rect x="985" y="150" width="360" height="340"/>
+</g>
+<text x="80" y="192" font-size="22" font-weight="bold">INPUT CONTEXT</text>
+<text x="80" y="250" font-size="21">Holdings / income / pension</text>
+<text x="80" y="295" font-size="21">Investment thesis</text>
+<text x="80" y="340" font-size="21">DART disclosures</text>
+<text x="80" y="410" font-size="18" fill="#59636e">Identify overlapping exposure</text>
+<text x="445" y="192" font-size="22" font-weight="bold">FOUR REVIEW ROLES</text>
+<text x="445" y="250" font-size="21">01  Recommendation agent</text>
+<text x="445" y="295" font-size="21">02  Counterargument agent</text>
+<text x="445" y="340" font-size="21">03  Suitability judge</text>
+<text x="445" y="385" font-size="21">04  Evidence verifier</text>
+<text x="445" y="445" font-size="18" fill="#59636e">Language reasoning + rule-based checks</text>
+<text x="1010" y="192" font-size="22" font-weight="bold">REVIEW OUTPUT</text>
+<text x="1010" y="250" font-size="21">Noise / Watch / Thesis Break</text>
+<text x="1010" y="295" font-size="21">Source-linked explanation</text>
+<text x="1010" y="340" font-size="21">Uncertainty / further checks</text>
+<text x="1010" y="410" font-size="18" fill="#59636e">No automatic investment execution</text>
+<text x="55" y="540" font-size="17" fill="#59636e">Mirae Asset AI Festival project · Problem definition, research and agent architecture</text>
+</g>
+<g stroke="#0969da" stroke-width="3" fill="none"><path d="M350 310 H402 M390 301 L402 310 L390 319"/><path d="M915 310 H970 M958 301 L970 310 L958 319"/></g>
+</svg>

@@ -1,0 +1,7 @@
+tmp/
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+output/pdf/github-profile-readme.pdf

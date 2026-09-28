@@ -36,7 +36,9 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ### Current Focus
 
-- **2026 KB AI Challenge** — 비공개 금융 AI 팀 프로젝트 진행
+- **Antony Studio** — 개미 투자자 키우기 Apps in Toss 출시·운영 및 사용자 피드백 기반 개선
+- **Financial AI** — 미래에셋 AI Festival 제출작 RiskTwin · KB 머니룰 기반 안심보이스
+- **Reqover · TUG GUARD** — Java Agent 오픈소스와 Three.js 해양 안전 시뮬레이터
 - **카카오테크캠퍼스 Agentic AI** — Tool Call → Structured Output → SQLite → 출처별 RAG 학습
 - **Python · FastAPI** — AI Product/Backend 역량과 코딩테스트 기반 강화
 - **종합설계프로젝트 준비** — 평가 가능한 신뢰성 중심 Agentic AI 주제 탐색
@@ -183,18 +185,94 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 - 중요한 거래는 사용자가 확인한 규칙과 **일회용 승인 토큰**을 모두 검증한 뒤에만 실행되도록 설계했습니다.
 - 외부 API 없이 재현하는 offline 모드와 실제 연동을 분리하고, 골든셋으로 안전 개입 단계를 평가하고 있습니다.
 
-> 대회 진행 중인 비공개 프로젝트로, 제출 이후 공개 가능한 구현과 평가 결과를 업데이트할 예정입니다.
+> [공개 저장소와 구현 기록](https://github.com/TaeHuiKKIM/kb-ansimvoice). 실제 금융 거래 시스템과 시연·검증 환경을 구분합니다.
+
+---
+
+## 6. 🐜 개미 투자자 키우기 — Apps in Toss 출시·운영
+
+<sub>Antony Studio · 제품 기획·개발·아트 검수·출시·운영</sub>
+
+<p align="center">
+  <img src="assets/portfolio/ant-worker-home.png" alt="일개미와 강남 아파트 배경의 실제 게임 홈" width="240"/>
+  <img src="assets/portfolio/ant-stock-current.png" alt="실제 게임 내 가상 종목 차트 · 별도 촬영" width="240"/>
+</p>
+<p align="center"><sub>2026-09-26 실제 웹 화면 · 게임 내 재화는 실제 매출이 아닙니다.</sub></p>
+
+- 가상 주식 매매와 방치형 성장을 결합하고, 개미 진화·집·수집품·꾸미기로 이어지는 게임을 기획·개발해 **Apps in Toss에 출시·운영**했습니다.
+- 초기 신규 게임·시뮬레이션 분야 **1위 기록**을 남겼습니다. 전체 게임의 현재 순위를 뜻하지 않습니다.
+- **2026-09-17 집계: 누적 이용자 4,820명, D1 43.48%, D7 22.22%**. 집계일이 다른 지표와 혼합하지 않습니다.
+- 튜토리얼 문장 중복 출력, 선택 이미지 로딩과 첫 플레이의 경합, PC·모바일 화면 충돌을 재현하고 수정·회귀검사 기록을 남겼습니다.
+- HTML·CSS·JavaScript 공통 게임과 플랫폼별 어댑터를 분리하고, AI 생성 아트 후보를 실제 화면에서 검수해 최종 자산을 선정했습니다.
+
+[게임 웹 버전](https://ant-idle-game.vercel.app/)
+
+---
+
+## 7. 💼 RiskTwin — 미래에셋 AI Festival 제출작
+
+<sub>금융 AI 기획 · DART 공시 근거 · 다중 Agent 역할 설계</sub>
+
+<p align="center">
+  <img src="assets/portfolio/risktwin-design.svg" alt="RiskTwin 입력·4개 Agent 역할·근거 검증 설계 개념도" width="720"/>
+</p>
+<p align="center"><sub>기획 자료 기반 설계 개념도 · 실제 서비스 화면 캡처가 아닙니다.</sub></p>
+
+- 공시 요약을 넘어 **보유자산·소득·연금과 기업 위험의 겹침**을 설명하는 문제를 정의했습니다.
+- 장기투자 콘텐츠 23개와 대표 사례 5개를 검토해 기존 공시 요약 서비스와의 차이를 정리했습니다.
+- **추천·반대 검토·적합성 판단·근거 검증**의 4개 Agent 역할을 설계하고, 자연어 설명과 규칙 계산·원문 검증의 책임을 분리했습니다.
+- 2026년 7월 미래에셋 AI Festival에 제출했습니다. 개인 기여는 문제 정의·조사·Agent 구조 설계이며, 수상이나 실서비스 운영 성과로 표기하지 않습니다.
+
+---
+
+## 8. 🔧 Reqover — 요청별 실행 관계를 추적하는 Java Agent
+
+<sub>Java · ASM · Spring MVC/WebFlux · 오픈소스 팀 프로젝트</sub>
+
+<p align="center">
+  <img src="assets/portfolio/reqover-request-report.png" alt="Reqover 요청별 실제 실행 메서드 리포트" width="620"/>
+</p>
+<p align="center">
+  <img src="assets/portfolio/reqover-code-index.png" alt="Reqover 코드 변경 영향 API 역조회 리포트" width="620"/>
+</p>
+<p align="center"><sub>공개 저장소의 요청별 실행 및 코드 → API 영향도 예제 리포트</sub></p>
+
+- HTTP 요청과 실행 메서드를 연결해 변경 코드가 영향을 줄 수 있는 API를 확인하는 개발 도구입니다.
+- 문제 정의와 제품 방향, core·계측·Java Agent·report·sample 설계 및 통합을 맡았습니다.
+- 2026-09-23 확인 기록: 개인 연결 커밋 44개·병합 PR 7개, 프로젝트 JDK 17·21 자동화 테스트 121개.
+
+[reqover-labs/reqover](https://github.com/reqover-labs/reqover)
+
+---
+
+## 9. ⚓ TUG GUARD — Three.js 해양 안전 디지털 트윈
+
+<sub>Three.js · React Three Fiber · 합성 비전/IMU · FastAPI</sub>
+
+<p align="center">
+  <img src="assets/portfolio/tugguard-live.png" alt="TUG GUARD 실제 Three.js 전체 보기와 시연 조작 패널" width="720"/>
+</p>
+<p align="center"><sub>2026-09-28 공개 웹 시연 화면 · 분석 서버 연결 전 상태</sub></p>
+
+- 항만·대형선·예인선·예인줄을 조작하는 **3D 시뮬레이터**를 개발했습니다.
+- 예인줄 Sag 데이터 생성, 100Hz 합성 IMU, FastAPI 분석 서버 연결을 구현했습니다.
+- 합성 데이터를 사용하는 시나리오 데모입니다. 실측 IMU나 실선 사고 데이터로 안전 성능을 검증한 시스템과 구분합니다.
+
+[ShipTugging/tugboat-safety-twin](https://github.com/ShipTugging/tugboat-safety-twin)
+
+[시뮬레이터 열기](https://tugboat-safety-twin.vercel.app/)
 
 ---
 
 <details>
-<summary><strong>📦 More Products & Experiments — 추가 프로젝트 8개 펼쳐보기</strong></summary>
+<summary><strong>📦 More Products & Experiments — 추가 프로젝트 펼쳐보기</strong></summary>
 
 <br/>
 
 | 프로젝트 | 문제와 구현 | 핵심 기술 · 결과 |
 | --- | --- | --- |
-| **🐜 개미 투자자 키우기** | 시세·매매·저장 복구가 있는 투자 시뮬레이션을 웹·스토어별 배포 계약으로 분리 | Vanilla JS, PWA, Android TWA, Vitest 394개, Playwright 140개 |
+| **🧭 Agent SEO Kit** | 읽기 전용 SEO 점검·승인된 수정·근거 기반 재검증을 분리 | Codex·Claude Code Agent Skills |
+| **🤖 카카오테크캠퍼스 팀 프로젝트** | 일정 Tool·구조화 요청·SQLite 기록·RAG 및 팀 프론트엔드 구현 | Python · TypeScript · Agentic AI |
 | **🗓️ 시간모아** | 로그인 없이 링크로 일정을 모으고 연속 가능한 시간을 추천 | Next.js, TypeScript, Supabase Postgres, SHA-256 토큰 |
 | **📄 ReadmePDF** | 파일을 서버에 보내지 않고 브라우저에서 Markdown·PDF 처리 | Next.js Static Export, pdf-lib, JSZip, 4개 언어 56개 경로 |
 | **💤 Free-Tier Sleep** | 12일 해커톤에서 두 장르를 연결한 메타픽션 게임 | Unity, C#, 인트로·팝업·절차적 오디오 담당 |
@@ -231,6 +309,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 | **Data** | MySQL · PostgreSQL · SQLite · Supabase · ChromaDB |
 | **Delivery & Test** | Docker · GitHub Actions · Vercel · Cloudtype · Vitest · Playwright · Pytest |
 | **Other Platforms** | React Native · Expo · Unity · C# · SwiftUI |
+| **3D & Simulation** | Three.js · React Three Fiber · 합성 비전/IMU |
 
 ## Credentials & Activities
 
@@ -242,7 +321,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 - **경북대 × 전남대 Physical AI 경진대회(AWS DeepRacer) 최우수상**
 - **카카오테크캠퍼스 아이디어톤 우수상**
-- **CODE-MEDI 해커톤 최우수상** · 해달 해커톤 인기상 · 시흥 로컬 창업경진대회 장려상
+- **CODE-MEDI 해커톤 최우수상** · 해달 해커톤 인기상 · 시흥실록지리지 장려상
 - 백엔드 프로젝트 최우수 평가 및 **장학금** 수혜
 
 ### Credentials & Programs
