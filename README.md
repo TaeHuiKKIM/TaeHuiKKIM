@@ -36,13 +36,21 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ### Current Focus
 
-- **Antony Studio** — 개미 투자자 키우기 Apps in Toss 출시·운영 및 사용자 피드백 기반 개선
-- **Financial AI** — 미래에셋 AI Festival 제출작 RiskTwin · KB 머니룰 기반 안심보이스
-- **Reqover** — Spring 요청별 실행 메서드를 기록하고 변경 코드가 닿는 API를 찾는 오픈소스 도구
-- **TUG GUARD** — 예인줄 학습 데이터 생성부터 비전 모델 연동·위험 판단까지 연결한 해양 시뮬레이터
+- **Antony Studio** · Apps in Toss 게임 출시·운영
+- **Reqover** · Spring 요청별 실행 관계를 추적하는 오픈소스 도구
+- **TUG GUARD** · 해양 시뮬레이션, 비전 학습 데이터, AI 추론 연동
+- **Financial AI** · RiskTwin · KB 머니룰 기반 안심보이스
+
+[출시 게임](#6--개미-투자자-키우기) · [의료 AI](#2--medirole--의료인의-cpx-대비를-위한-ai-표준화환자-플랫폼) · [Reqover](#8--reqover) · [TUG GUARD](#9--tug-guard)
+
+<details>
+<summary>학습과 탐색</summary>
+
 - **카카오테크캠퍼스 Agentic AI** — Tool Call → Structured Output → SQLite → 출처별 RAG 학습
 - **Python · FastAPI** — AI Product/Backend 역량과 코딩테스트 기반 강화
 - **종합설계프로젝트 준비** — 평가 가능한 신뢰성 중심 Agentic AI 주제 탐색
+
+</details>
 
 ---
 
@@ -76,10 +84,17 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 <p align="center">
   <img src="assets/portfolio/cpx-final-home.png" alt="MediCPX 시나리오 대시보드" width="620"/>
 </p>
+<details>
+<summary>문진 화면과 평가 리포트</summary>
+
 <p align="center">
-  <img src="assets/portfolio/cpx-final-room.png" alt="MediCPX 실시간 문진 화면" width="300"/>
-  <img src="assets/portfolio/cpx-final-report.png" alt="MediCPX 자동 채점 리포트" width="300"/>
+  <img src="assets/portfolio/cpx-final-room.png" alt="Medirole 실시간 문진 화면" width="720"/>
 </p>
+<p align="center">
+  <img src="assets/portfolio/cpx-final-report.png" alt="Medirole 자동 채점 리포트" width="720"/>
+</p>
+
+</details>
 
 ![Award](https://img.shields.io/badge/CODE--MEDI-최우수상-d4a72c?style=flat-square)
 ![Exam](https://img.shields.io/badge/Exam-12%20min-8E75B2?style=flat-square)
@@ -146,10 +161,17 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 <p align="center">
   <img src="assets/portfolio/merci-main.png" alt="MERCI 쇼핑몰 메인 화면" width="620"/>
 </p>
+<details>
+<summary>상품 상세와 주문 화면</summary>
+
 <p align="center">
-  <img src="assets/portfolio/merci-detail.png" alt="MERCI 상품 상세 화면" width="300"/>
-  <img src="assets/portfolio/merci-cart.png" alt="MERCI 장바구니와 주문 화면" width="300"/>
+  <img src="assets/portfolio/merci-detail.png" alt="MERCI 상품 상세 화면" width="720"/>
 </p>
+<p align="center">
+  <img src="assets/portfolio/merci-cart.png" alt="MERCI 장바구니와 주문 화면" width="720"/>
+</p>
+
+</details>
 
 ![Result](https://img.shields.io/badge/Result-Top%20Evaluation-d4a72c?style=flat-square)
 ![Integrity](https://img.shields.io/badge/Integrity-Atomic%20Order-238636?style=flat-square)
@@ -190,24 +212,34 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 6. 🐜 개미 투자자 키우기 — Apps in Toss 출시·운영
+## 6. 🐜 개미 투자자 키우기
 
-<sub>Antony Studio · 제품 기획·개발·아트 검수·출시·운영</sub>
+**Apps in Toss 출시·운영** · Antony Studio
+
+가상 주식 매매와 방치형 성장을 연결한 게임입니다. 제품 기획부터 개발·아트 검수·출시·운영까지 맡았습니다.
+
+누적 이용자 **10,336명** · D1 **52.8%** · D7 **30.3%**  
+Threads **419,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
 
 <p align="center">
-  <img src="assets/portfolio/ant-worker-home.png" alt="일개미와 강남 아파트 배경의 실제 게임 홈" width="240"/>
-  <img src="assets/portfolio/ant-stock-current.png" alt="실제 게임 내 가상 종목 차트 · 별도 촬영" width="240"/>
+  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" height="480"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" height="480"/>
 </p>
-<p align="center"><sub>가상 투자 게임 · 홈과 종목 차트</sub></p>
+<p align="center"><sub>홈·성장 화면 &nbsp; / &nbsp; 가상 종목·매매 차트</sub></p>
 
-- 가상 주식 매매와 방치형 성장을 결합하고, 개미 진화·집·수집품·꾸미기로 이어지는 게임을 기획·개발해 **Apps in Toss에 출시·운영**했습니다.
-- 출시 초기 신규 게임·시뮬레이션 분야 **1위 달성**.
-- **누적 이용자 10,336명 · D1 리텐션 52.8% · D7 리텐션 30.3%**.
-- **Threads(스레드) 콘텐츠 조회수 419,443회 확보**.
+- **플레이 흐름:** 매매·출근으로 재화를 모으고 개미 진화·집·수집품·꾸미기로 성장합니다.
+- **개발:** 공통 웹 게임과 플랫폼별 어댑터, 자산 로딩과 저장·복구 흐름을 구현했습니다.
+- **운영:** 사용자 반응을 확인하며 첫 실행·튜토리얼·화면 안정성을 개선했습니다.
+
+[게임 보기](https://ant-idle-game.vercel.app/)
+
+<details>
+<summary>구현·운영 상세</summary>
+
 - 튜토리얼 문장 중복 출력, 선택 이미지 로딩과 첫 플레이의 경합, PC·모바일 화면 충돌을 재현하고 수정·회귀검사 기록을 남겼습니다.
 - HTML·CSS·JavaScript 공통 게임과 플랫폼별 어댑터를 분리하고, AI 생성 아트 후보를 실제 화면에서 검수해 최종 자산을 선정했습니다.
 
-[게임 웹 버전](https://ant-idle-game.vercel.app/)
+</details>
 
 ---
 
@@ -227,35 +259,58 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 8. 🔧 Reqover — 요청별 실행 관계를 추적하는 Java Agent
+## 8. 🔧 Reqover
 
-<sub>2인 오픈소스 팀 · 핵심 MVP 설계·구현 · Java Agent · ASM · Spring</sub>
+**Spring 요청별 실행 관계 분석** · 2인 오픈소스 팀 · 핵심 MVP 설계·구현
+
+“이 API 요청이 실제로 어떤 코드를 실행했는가?”를 확인하는 도구입니다. 메서드 실행 기록을 요청별로 모으고, 코드에서 관련 API를 역으로 찾습니다.
 
 <p align="center">
-  <img src="assets/portfolio/reqover-request-report.png" alt="Reqover 요청별 실제 실행 메서드 리포트" width="620"/>
+  <img src="assets/portfolio/reqover-code-index.png" alt="Reqover — 코드에서 관측된 API를 역으로 찾는 리포트" width="720"/>
 </p>
+<p align="center"><sub>코드 → API 역방향 인덱스</sub></p>
+
+- **내 구현:** 요청별 실행 bucket·probe 라우팅, ASM 계측, Java Agent 패키징과 리포트.
+- **개발 결과:** API → 메서드 리포트와 코드 → API 역조회, 별도 JVM 에이전트 검증·데모.
+- **팀의 확장:** MVC/WebFlux 연동을 개선하고 CLI·GitHub Action으로 재검증할 API 후보를 제시합니다.
+
+[저장소](https://github.com/reqover-labs/reqover)
+
+<details>
+<summary>요청별 리포트와 구현 상세</summary>
+
 <p align="center">
-  <img src="assets/portfolio/reqover-code-index.png" alt="Reqover 코드 변경 영향 API 역조회 리포트" width="620"/>
+  <img src="assets/portfolio/reqover-request-report.png" alt="Reqover — 요청별 실제 실행 메서드 리포트" width="720"/>
 </p>
-<p align="center"><sub>공개 저장소의 요청별 실행 및 코드 → API 영향도 예제 리포트</sub></p>
 
 - **문제 정의:** 기존 커버리지 리포트로는 메서드가 실행됐다는 사실은 알 수 있어도 어떤 HTTP 요청이 실행했는지 알기 어려웠습니다. 요청 단위로 실행 관계를 기록하는 방향을 공동 설계했습니다.
 - **내 구현:** 요청별 실행 bucket과 probe 라우팅, ASM 메서드 진입 계측, `-javaagent` 패키징, API → 메서드 리포트와 코드 → API 역방향 인덱스, 별도 JVM 에이전트 검증·데모를 만들었습니다.
 - **팀의 확장:** Spring MVC/WebFlux 어댑터는 함께 개선했습니다. 팀은 JSON 내보내기와 CLI `render`·`diff`·`impact`, GitHub Action을 더해 변경 파일에서 다시 확인할 API 후보를 제시하는 흐름으로 확장했습니다.
 - **검증 범위:** 메서드 진입과 실제 관측된 요청을 연결합니다. 줄·분기 커버리지를 측정하는 도구와 함께 사용할 수 있습니다.
 
-[reqover-labs/reqover](https://github.com/reqover-labs/reqover)
+</details>
 
 ---
 
-## 9. ⚓ TUG GUARD — 시뮬레이션부터 비전 추론까지 잇는 해양 안전 디지털 트윈
+## 9. ⚓ TUG GUARD
 
-<sub>Three.js · React Three Fiber · 학습용 합성 데이터 · YOLO-Seg 연동 · FastAPI</sub>
+**해양 안전 디지털 트윈** · Three.js · 비전 학습 데이터 · FastAPI
+
+예인 시나리오를 3D로 재현하고, 학습용 데이터 생성과 비전 모델 추론·위험 판단을 연결했습니다.
 
 <p align="center">
   <img src="assets/portfolio/tugguard-live.png" alt="TUG GUARD 실제 Three.js 전체 보기와 시연 조작 패널" width="720"/>
 </p>
-<p align="center"><sub>TUG GUARD · 3D 시뮬레이터와 시연 조작 패널</sub></p>
+<p align="center"><sub>예인선·예인줄의 3D 장면과 시연 조작 패널</sub></p>
+
+- **데이터 생성:** RGB 이미지·픽셀 마스크·YOLO-Seg 라벨을 렌더 지오메트리에서 생성.
+- **동기화:** 공통 시뮬레이션 시계로 24 FPS 영상과 100 Hz 합성 IMU 기록.
+- **추론·위험 판단:** 팀의 학습 모델을 연동하고 마스크 품질·줄 처짐 변화·횡경사를 함께 평가.
+
+[저장소](https://github.com/ShipTugging/tugboat-safety-twin) · [시뮬레이터](https://tugboat-safety-twin.vercel.app/)
+
+<details>
+<summary>학습 데이터·추론 연동·검증 상세</summary>
 
 - **시뮬레이터:** 본선·ASD 예인선·예인줄을 조작하는 Three.js 장면과 고정 CCTV 시점을 구현했습니다. 방향·줄 길이·속력·시간대를 바꿔 시나리오를 재현합니다.
 - **내가 만든 학습 데이터 흐름:** 예인줄 Sag 단계와 시점·조명·해상 조건을 달리한 RGB 이미지, 픽셀 마스크, YOLO-Seg 폴리곤 라벨을 생성했습니다. 렌더 지오메트리로 정답을 만들고 가려진 줄은 마스크에서 제외했습니다.
@@ -263,9 +318,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 - **AI 연동과 위험 판단:** 팀이 학습한 예인줄 분할 모델을 FastAPI 분석 서버에 연결했습니다. 예측 마스크의 품질, 줄 처짐 변화, 영상 각도와 IMU 횡경사를 시간에 따라 결합해 경보 상태를 계산했습니다.
 - **검증:** 분할 라벨 변환·영상/IMU 동기화·서버 응답·경보 지속/회복 조건을 재현 가능한 시나리오와 테스트로 확인했습니다. 모델 학습·평가는 팀 작업이며, 실선 사고 데이터로 검증한 안전 인증 시스템은 아닙니다.
 
-[ShipTugging/tugboat-safety-twin](https://github.com/ShipTugging/tugboat-safety-twin)
-
-[시뮬레이터 열기](https://tugboat-safety-twin.vercel.app/)
+</details>
 
 ---
 
