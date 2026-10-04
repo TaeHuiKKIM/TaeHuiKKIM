@@ -41,7 +41,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 - **TUG GUARD** · 해양 시뮬레이션, 비전 학습 데이터, AI 추론 연동
 - **Financial AI** · RiskTwin · KB 머니룰 기반 안심보이스
 
-[출시 게임](#6--개미-투자자-키우기) · [의료 AI](#2--medirole--의료인의-cpx-대비를-위한-ai-표준화환자-플랫폼) · [Reqover](#8--reqover) · [TUG GUARD](#9--tug-guard)
+[출시 게임](#user-content-6--개미-투자자-키우기) · [의료 AI](#user-content-2--medirole--의료인의-cpx-대비를-위한-ai-표준화환자-플랫폼) · [Reqover](#user-content-8--reqover) · [TUG GUARD](#user-content-9--tug-guard)
 
 <details>
 <summary>학습과 탐색</summary>
