@@ -269,7 +269,7 @@ Threads **419,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 “이 API 요청이 실제로 어떤 코드를 실행했는가?”를 확인하는 도구입니다. 메서드 실행 기록을 요청별로 모으고, 코드에서 관련 API를 역으로 찾습니다.
 
 <p align="center">
-  <img src="assets/portfolio/reqover-code-index.png" alt="Reqover — 코드에서 관측된 API를 역으로 찾는 리포트" width="720"/>
+  <img width="720" alt="Reqover — 코드에서 관측된 API를 역으로 찾는 리포트" src="https://github.com/user-attachments/assets/a08952a3-cb7e-4010-9ab5-c706144fac2f" />
 </p>
 <p align="center"><sub>코드 → API 역방향 인덱스</sub></p>
 
