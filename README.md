@@ -36,8 +36,8 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ### Current Focus
 
-- **Antony Studio** · Apps in Toss 게임 출시·운영
-- **Reqover** · Spring 요청별 실행 관계를 추적하는 오픈소스 도구
+- **Antony Studio** · Apps in Toss 출시 5일만에 시뮬레이션 분야 1등 달성한 주식 투자 게임 '개미 투자자 키우기' 1인 개발·출시·운영
+- **Reqover** · Spring 요청별 실행 관계를 추적하는 오픈소스 도구 개발·유지
 - **TUG GUARD** · 해양 시뮬레이션, 비전 학습 데이터, AI 추론 연동
 - **Financial AI** · RiskTwin · KB 머니룰 기반 안심보이스
 - **GROOVE Festival** · 현장 주막 운영 경험을 QR 주문·운영 백엔드로 연결
@@ -219,10 +219,10 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 가상 주식 매매와 방치형 성장을 연결한 게임입니다. 제품 기획부터 개발·아트 검수·출시·운영까지 맡았습니다.
 
-<sub>2026.09.28 기준</sub>
+<sub>2026.10.07 기준</sub>
 
-누적 이용자 **10,336명** · D1 **52.8%** · D7 **30.3%**<br/>
-Threads **419,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
+누적 이용자 **17,009명** · D1 **52.8%** · D7 **38.1%**<br/>
+Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
 
 <p align="center">
   <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" height="480"/>&nbsp;&nbsp;&nbsp;&nbsp;
