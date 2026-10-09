@@ -61,7 +61,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 <sub>강화학습 전략 · 보상 함수 · 실차 튜닝</sub>
 <p align="center">
-  <img width="680" alt="image" src="https://github.com/user-attachments/assets/e5486543-3981-4915-a043-5770d9361fc0" />
+  <img height="440" alt="image" src="https://github.com/user-attachments/assets/e5486543-3981-4915-a043-5770d9361fc0" />
 </p>
 
 ![Award](https://img.shields.io/badge/Physical%20AI-최우수상-d4a72c?style=flat-square)
@@ -225,8 +225,8 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
 
 <p align="center">
-  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" width="40%"/>
+  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" height="440"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" height="440"/>
 </p>
 <p align="center"><sub>홈·성장 화면 &nbsp; / &nbsp; 가상 종목·매매 차트</sub></p>
 
@@ -413,7 +413,7 @@ IT·간호·예술·사회과학·사범·자연과학대학의 연합축제에 
 ### 🏆 Awards
 
 <p align="center">
-  <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" width="680"/>
+  <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" height="440"/>
 </p>
 
 - **경북대 × 전남대 Physical AI 경진대회(AWS DeepRacer) 최우수상**
