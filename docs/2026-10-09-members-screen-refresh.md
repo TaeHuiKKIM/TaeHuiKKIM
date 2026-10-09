@@ -10,7 +10,7 @@
 ## 출처와 검증
 
 - 출처: 사용자 제공 Members Clinic 홈페이지 스크린샷.
-- 최종 이미지: assets/portfolio/members-home-20261009-wide.png (2872×1446).
+- 최종 이미지: assets/portfolio/members-home-20261009-final.png (2862×1452).
 - 첨부 원본과 저장한 파일의 바이트 일치 및 PNG 크기, README 참조를 확인한다.
 - 날짜가 포함된 새 경로로 GitHub 이미지 캐시가 이전 캡처를 재사용하지 않게 한다.
 - 배포 후 운영 스크롤바 확인은 사용자가 직접 진행하기로 했다.

@@ -122,7 +122,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 <sub>1인 기획·개발·운영 · Next.js 재구축</sub>
 
 <p align="center">
-  <img src="assets/portfolio/members-home-20261009-wide.png" alt="Members Clinic 홈페이지 — 전화상담·카톡상담·언어 선택" width="100%"/>
+  <img src="assets/portfolio/members-home-20261009-final.png" alt="Members Clinic 홈페이지 — 전화상담·카톡상담·언어 선택" width="100%"/>
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
