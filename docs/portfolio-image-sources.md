@@ -4,6 +4,7 @@
 
 | 파일 | 출처 | 구분 |
 | --- | --- | --- |
+| members-home-20261009.png | 사용자 제공 Members Clinic 홈페이지 스크린샷 · 2026-10-09 | 첨부 PNG 원본 그대로 사용, 상담 액션 순서·라벨 반영 |
 | ant-worker-home.png / ant-stock-current.png | https://ant-idle-game.vercel.app/ · 2026-09-26 | 실제 웹 화면, 게임 내 가상 재화 |
 | reqover-request-report.png | https://github.com/reqover-labs/reqover/blob/main/docs/assets/reqover-mvc-request-attribution.png | 공개 예제 리포트 원본 |
 | reqover-code-index.png | https://github.com/reqover-labs/reqover/blob/main/docs/assets/reqover-code-to-endpoint-index.png | 공개 예제 리포트 원본 |
