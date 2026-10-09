@@ -61,7 +61,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 <sub>강화학습 전략 · 보상 함수 · 실차 튜닝</sub>
 <p align="center">
-  <img width="720" alt="image" src="https://github.com/user-attachments/assets/e5486543-3981-4915-a043-5770d9361fc0" />
+  <img width="680" alt="image" src="https://github.com/user-attachments/assets/e5486543-3981-4915-a043-5770d9361fc0" />
 </p>
 
 ![Award](https://img.shields.io/badge/Physical%20AI-최우수상-d4a72c?style=flat-square)
@@ -83,16 +83,16 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 <sub>실시간 문진 · 자동 채점 · CODE-MEDI 해커톤 최우수상</sub>
 
 <p align="center">
-  <img src="assets/portfolio/cpx-final-home.png" alt="MediCPX 시나리오 대시보드" width="720"/>
+  <img src="assets/portfolio/cpx-final-home.png" alt="MediCPX 시나리오 대시보드" width="680"/>
 </p>
 <details>
 <summary>문진 화면과 평가 리포트</summary>
 
 <p align="center">
-  <img src="assets/portfolio/cpx-final-room.png" alt="Medirole 실시간 문진 화면" width="720"/>
+  <img src="assets/portfolio/cpx-final-room.png" alt="Medirole 실시간 문진 화면" width="680"/>
 </p>
 <p align="center">
-  <img src="assets/portfolio/cpx-final-report.png" alt="Medirole 자동 채점 리포트" width="720"/>
+  <img src="assets/portfolio/cpx-final-report.png" alt="Medirole 자동 채점 리포트" width="680"/>
 </p>
 
 </details>
@@ -122,7 +122,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 <sub>1인 기획·개발·운영 · Next.js 재구축</sub>
 
 <p align="center">
-  <img src="assets/portfolio/members-home-20261009-final.png" alt="Members Clinic 홈페이지 — 전화상담·카톡상담·언어 선택" width="720"/>
+  <img src="assets/portfolio/members-home-20261009-final.png" alt="Members Clinic 홈페이지 — 전화상담·카톡상담·언어 선택" width="680"/>
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
@@ -160,16 +160,16 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 <sub>백엔드 기본기 · 주문 트랜잭션 · 최우수 평가 및 장학금</sub>
 
 <p align="center">
-  <img src="assets/portfolio/merci-main.png" alt="MERCI 쇼핑몰 메인 화면" width="720"/>
+  <img src="assets/portfolio/merci-main.png" alt="MERCI 쇼핑몰 메인 화면" width="680"/>
 </p>
 <details>
 <summary>상품 상세와 주문 화면</summary>
 
 <p align="center">
-  <img src="assets/portfolio/merci-detail.png" alt="MERCI 상품 상세 화면" width="720"/>
+  <img src="assets/portfolio/merci-detail.png" alt="MERCI 상품 상세 화면" width="680"/>
 </p>
 <p align="center">
-  <img src="assets/portfolio/merci-cart.png" alt="MERCI 장바구니와 주문 화면" width="720"/>
+  <img src="assets/portfolio/merci-cart.png" alt="MERCI 장바구니와 주문 화면" width="680"/>
 </p>
 
 </details>
@@ -197,7 +197,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 <sub>2026 KB AI Challenge · 팀 프로젝트 진행 중</sub>
 <p align="center">
-  <img width="720" alt="image" src="https://github.com/user-attachments/assets/4ae8d9ff-d05b-4a2b-b41e-f4497555bf0c" />
+  <img width="680" alt="image" src="https://github.com/user-attachments/assets/4ae8d9ff-d05b-4a2b-b41e-f4497555bf0c" />
 </p>
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-d4a72c?style=flat-square)
@@ -225,8 +225,8 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
 
 <p align="center">
-  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" width="42%"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" width="42%"/>
+  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" width="40%"/>
 </p>
 <p align="center"><sub>홈·성장 화면 &nbsp; / &nbsp; 가상 종목·매매 차트</sub></p>
 
@@ -251,7 +251,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 <sub>금융 AI 기획 · DART 공시 근거 · 다중 Agent 역할 설계</sub>
 
 <p align="center">
-  <img src="assets/portfolio/risktwin-design.svg" alt="RiskTwin 입력·4개 Agent 역할·근거 검증 설계 개념도" width="720"/>
+  <img src="assets/portfolio/risktwin-design.svg" alt="RiskTwin 입력·4개 Agent 역할·근거 검증 설계 개념도" width="680"/>
 </p>
 <p align="center"><sub>RiskTwin · Agent 설계 개념도</sub></p>
 
@@ -269,7 +269,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 “이 API 요청이 실제로 어떤 코드를 실행했는가?”를 확인하는 도구입니다. 메서드 실행 기록을 요청별로 모으고, 코드에서 관련 API를 역으로 찾습니다.
 
 <p align="center">
-  <img width="720" alt="Reqover — 코드에서 관측된 API를 역으로 찾는 리포트" src="https://github.com/user-attachments/assets/a08952a3-cb7e-4010-9ab5-c706144fac2f" />
+  <img width="680" alt="Reqover — 코드에서 관측된 API를 역으로 찾는 리포트" src="https://github.com/user-attachments/assets/a08952a3-cb7e-4010-9ab5-c706144fac2f" />
 </p>
 <p align="center"><sub>코드 → API 역방향 인덱스</sub></p>
 
@@ -283,7 +283,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 <summary>요청별 리포트와 구현 상세</summary>
 
 <p align="center">
-  <img src="assets/portfolio/reqover-request-report.png" alt="Reqover — 요청별 실제 실행 메서드 리포트" width="720"/>
+  <img src="assets/portfolio/reqover-request-report.png" alt="Reqover — 요청별 실제 실행 메서드 리포트" width="680"/>
 </p>
 
 - **문제 정의:** 기존 커버리지 리포트로는 메서드가 실행됐다는 사실은 알 수 있어도 어떤 HTTP 요청이 실행했는지 알기 어려웠습니다. 요청 단위로 실행 관계를 기록하는 방향을 공동 설계했습니다.
@@ -302,7 +302,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 예인 시나리오를 3D로 재현하고, 학습용 데이터 생성과 비전 모델 추론·위험 판단을 연결했습니다.
 
 <p align="center">
-  <img src="assets/portfolio/tugguard-live.png" alt="TUG GUARD 실제 Three.js 전체 보기와 시연 조작 패널" width="720"/>
+  <img src="assets/portfolio/tugguard-live.png" alt="TUG GUARD 실제 Three.js 전체 보기와 시연 조작 패널" width="680"/>
 </p>
 <p align="center"><sub>예인선·예인줄의 3D 장면과 시연 조작 패널</sub></p>
 
@@ -337,7 +337,7 @@ IT·간호·예술·사회과학·사범·자연과학대학의 연합축제에 
 <sub>경북대학교 2026 통계연보 · 2026.04.01 기준 · [단과대학별 학생 현황](https://ir.knu.ac.kr/state/report.php?isc_no=2081&isg_no=54)</sub>
 
 <p align="center">
-  <img src="assets/portfolio/groove-home-20261007.png" alt="GROOVE 공개 홈페이지 메인 — 축제명, 10월 1~2일 일정과 참여 6개 단과대학" width="720"/>
+  <img src="assets/portfolio/groove-home-20261007.png" alt="GROOVE 공개 홈페이지 메인 — 축제명, 10월 1~2일 일정과 참여 6개 단과대학" width="680"/>
 </p>
 <p align="center"><sub>GROOVE 공개 웹 메인 · 2026.10.07 캡처</sub></p>
 
@@ -413,7 +413,7 @@ IT·간호·예술·사회과학·사범·자연과학대학의 연합축제에 
 ### 🏆 Awards
 
 <p align="center">
-  <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" width="720"/>
+  <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" width="680"/>
 </p>
 
 - **경북대 × 전남대 Physical AI 경진대회(AWS DeepRacer) 최우수상**
