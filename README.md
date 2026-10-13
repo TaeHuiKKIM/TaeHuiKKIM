@@ -39,7 +39,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 - **Antony Studio** · Apps in Toss 출시 5일만에 시뮬레이션 분야 1등 달성한 주식 투자 게임 '개미 투자자 키우기' 1인 개발·출시·운영
 - **Reqover** · Spring 요청별 실행 관계를 추적하는 오픈소스 도구 개발·유지
 - **TUG GUARD** · 해양 시뮬레이션, 비전 학습 데이터, AI 추론 연동
-- **Financial AI** · RiskTwin · KB 머니룰 기반 안심보이스
+- **Financial AI** · CrossCheck 공시 근거 대조 Agent · KB 머니룰 기반 안심보이스
 - **GROOVE Festival** · 현장 주막 운영 경험을 QR 주문·운영 백엔드로 연결
 
 [출시 게임](#user-content-6--개미-투자자-키우기) · [의료 AI](#user-content-2--medirole--의료인의-cpx-대비를-위한-ai-표준화환자-플랫폼) · [Reqover](#user-content-8--reqover) · [TUG GUARD](#user-content-9--tug-guard) · [GROOVE](#user-content-groove-festival)
@@ -219,9 +219,9 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 가상 주식 매매와 방치형 성장을 연결한 게임입니다. 제품 기획부터 개발·아트 검수·출시·운영까지 맡았습니다.
 
-<sub>2026.10.07 기준</sub>
+<sub>2026.10.13 기준</sub>
 
-누적 이용자 **17,009명** · D1 **52.8%** · D7 **38.1%**<br/>
+누적 이용자 **20,160명** · D1 **46.51%** · D7 **32.34%** · 유료 결제 **676건**<br/>
 Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
 
 <p align="center">
@@ -234,7 +234,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 - **개발:** 공통 웹 게임과 플랫폼별 어댑터, 자산 로딩과 저장·복구 흐름을 구현했습니다.
 - **운영:** 사용자 반응을 확인하며 첫 실행·튜토리얼·화면 안정성을 개선했습니다.
 
-[게임 보기](https://ant-idle-game.vercel.app/)
+[게임 소개](https://antonystudio.kr/games/ant-investor/) · [앤토니 스튜디오](https://antonystudio.kr)
 
 <details>
 <summary>구현·운영 상세</summary>
@@ -246,19 +246,20 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 
 ---
 
-## 7. 💼 RiskTwin — 미래에셋 AI Festival 제출작
+## 7. 💼 CrossCheck — 미래에셋증권 AI Festival 공시 Agent
 
-<sub>금융 AI 기획 · DART 공시 근거 · 다중 Agent 역할 설계</sub>
+<sub>금융 Agentic AI · RiskTwin 기획의 구현 · HyperCLOVA X · NCP 운영 배포</sub>
 
 <p align="center">
-  <img src="assets/portfolio/risktwin-design.svg" alt="RiskTwin 입력·4개 Agent 역할·근거 검증 설계 개념도" width="680"/>
+  <img src="assets/portfolio/crosscheck-flow.png" alt="CrossCheck Agent 흐름도: 질문 이해, 공시 검색, 계산과 답변 생성, 근거 대조 검증, 출처가 붙은 답변" width="760"/>
 </p>
-<p align="center"><sub>RiskTwin · Agent 설계 개념도</sub></p>
+<p align="center"><sub>CrossCheck · Agentic flow</sub></p>
 
-- 공시 요약을 넘어 **보유자산·소득·연금과 기업 위험의 겹침**을 설명하는 문제를 정의했습니다.
-- 장기투자 콘텐츠 23개와 대표 사례 5개를 검토해 기존 공시 요약 서비스와의 차이를 정리했습니다.
-- **추천·반대 검토·적합성 판단·근거 검증**의 4개 Agent 역할을 설계하고, 자연어 설명과 규칙 계산·원문 검증의 책임을 분리했습니다.
-- 2026년 7월 미래에셋 AI Festival에 제출했으며, 문제 정의·조사·Agent 구조 설계를 맡았습니다.
+- 공시를 그럴듯하게 요약하는 챗봇이 아니라, **여러 공시를 찾아 비교·계산한 뒤 모든 결론을 원문 근거와 다시 대조하는 Agent**를 만들었습니다.
+- 7월에 기획한 RiskTwin(추천·반대 검토·적합성 판단·근거 검증 4개 역할 설계)을 공시 Agent로 직접 구현했습니다.
+- **질문 정책 → 기업·기간 해석 → 결정론적 계획 → 필터 검색(SQLite FTS5) → 근거 충분성 확인 → 타입 계산(Decimal) → HCX-007 구조화 답변 → 주장·인용 근거 대조 → 1회 제한 수정**으로 흐름을 나눠, 근거가 부족하면 단정하지 않고 한계를 답합니다.
+- 주최 측 70개 기업 공시만 사용하고 웹·뉴스·실시간 OpenDART는 쓰지 않습니다. 복합 질문은 Typed Evidence Execution Graph로 컴파일합니다.
+- FastAPI 공개 API를 NCP에 배포했고 단위·통합·API 회귀 테스트 3,213개를 통과했습니다. 문제 정의부터 Agent 설계, 구현, 배포까지 맡았습니다.
 
 ---
 
@@ -379,7 +380,7 @@ IT·간호·예술·사회과학·사범·자연과학대학의 연합축제에 
 
 ### Links
 
-- [개미 투자자 키우기](https://ant-idle-game.vercel.app)
+- [개미 투자자 키우기](https://antonystudio.kr/games/ant-investor/)
 - [ReadmePDF](https://web-readme-pdf-free-mrgf3o4gbe0b862a.sel3.cloudtype.app/)
 - [Virtual Face Cam](https://github.com/TaeHuiKKIM/virtual-face-cam)
 - [Virtual Face Cam for macOS](https://github.com/TaeHuiKKIM/virtual-face-cam-mac)
