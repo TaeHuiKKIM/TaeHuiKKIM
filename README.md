@@ -4,7 +4,7 @@
 
 ### AI 제품을 만들고 운영하는 Product · Backend Developer
 
-경북대학교 글로벌소프트웨어융합전공 · 카카오테크캠퍼스 4기<br/>
+**[Antony Studio](https://antonystudio.kr) CEO** · 경북대학교 글로벌소프트웨어융합전공 · 카카오테크캠퍼스 4기<br/>
 웹 서비스에서 시작해 백엔드, 실시간 AI, 모바일과 제품 운영으로 경험을 넓혀가고 있습니다.
 
 <br/>
@@ -14,6 +14,7 @@
 ![ADsP](https://img.shields.io/badge/ADsP-취득-5319e7?style=for-the-badge)
 ![SQLD](https://img.shields.io/badge/SQLD-취득-5319e7?style=for-the-badge)
 
+[![Antony Studio](https://img.shields.io/badge/Antony%20Studio-CEO-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antonystudio.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TaeHui%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehui-kim-930713412/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kt_gml/posts)
 [![Solved.ac](https://img.shields.io/badge/Solved.ac-1043tae-00C73C?style=for-the-badge)](https://solved.ac/1043tae/)
@@ -36,13 +37,15 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ### Current Focus
 
-- **Antony Studio** · Apps in Toss 출시 5일만에 시뮬레이션 분야 1등 달성한 주식 투자 게임 '개미 투자자 키우기' 1인 개발·출시·운영
-- **Reqover** · Spring 요청별 실행 관계를 추적하는 오픈소스 도구 개발·유지
+- **Antony Studio CEO** · Apps in Toss 출시 5일만에 시뮬레이션 분야 1등 달성한 주식 투자 게임 '개미 투자자 키우기' 1인 개발·출시·운영
+- **백신알리미+ (팀 도달)** · 공공데이터와 Gemini로 부모님 예방접종을 가족과 보건소가 함께 챙기는 GovTech 서비스
+- **Gitory** · GitHub 커밋·PR을 근거 연결 경험 카드와 자소서로 잇는 카카오테크캠퍼스 팀 프로젝트 FE 리드
+- **Reqover** · Spring 요청별 실행 관계를 추적하는 오픈소스 도구, v0.4.2 Maven Central 배포
 - **TUG GUARD** · 해양 시뮬레이션, 비전 학습 데이터, AI 추론 연동
 - **Financial AI** · CrossCheck 공시 근거 대조 Agent · KB 머니룰 기반 안심보이스
 - **GROOVE Festival** · 현장 주막 운영 경험을 QR 주문·운영 백엔드로 연결
 
-[출시 게임](#user-content-6--개미-투자자-키우기) · [의료 AI](#user-content-2--medirole--의료인의-cpx-대비를-위한-ai-표준화환자-플랫폼) · [Reqover](#user-content-8--reqover) · [TUG GUARD](#user-content-9--tug-guard) · [GROOVE](#user-content-groove-festival)
+[Antony Studio](#user-content-antony-studio) · [백신알리미+](#user-content-dodal) · [Gitory](#user-content-gitory) · [의료 AI](#user-content-4--medirole--의료인의-cpx-대비를-위한-ai-표준화환자-플랫폼) · [Reqover](#user-content-9--reqover) · [TUG GUARD](#user-content-10--tug-guard) · [GROOVE](#user-content-groove-festival)
 
 <details>
 <summary>학습과 탐색</summary>
@@ -55,9 +58,137 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
+<a id="antony-studio"></a>
+
+# 🏢 Antony Studio — CEO
+
+**게임과 AI 제품을 만들고 직접 운영하는 1인 스튜디오** · 2026.09 개업
+
+[![Website](https://img.shields.io/badge/▶%20Website-antonystudio.kr-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antonystudio.kr)
+
+- 사업자를 내고 제품 기획, 개발, 아트 검수, 출시, 지표 분석과 운영을 혼자 맡고 있습니다.
+- 첫 제품 '개미 투자자 키우기'를 Apps in Toss에 출시해 신규 게임, 시뮬레이션 분야 1위에 올랐습니다.
+
+
+### 🐜 개미 투자자 키우기 — Apps in Toss 출시·운영
+
+가상 주식 매매와 방치형 성장을 연결한 게임입니다. 제품 기획부터 개발·아트 검수·출시·운영까지 맡았습니다.
+
+누적 이용자 **58,716명**<sub>(2026.11.09)</sub> · D1 **46.51%** · D7 **32.34%** · 유료 결제 **676건**<sub>(2026.10.13)</sub><br/>
+Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
+
+<p align="center">
+  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" height="440"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" height="440"/>
+</p>
+<p align="center"><sub>홈·성장 화면 &nbsp; / &nbsp; 가상 종목·매매 차트</sub></p>
+
+- **플레이 흐름:** 매매·출근으로 재화를 모으고 개미 진화·집·수집품·꾸미기로 성장합니다.
+- **개발:** 공통 웹 게임과 플랫폼별 어댑터, 자산 로딩과 저장·복구 흐름을 구현했습니다.
+- **운영:** 사용자 반응을 확인하며 첫 실행·튜토리얼·화면 안정성을 개선했습니다.
+
+[게임 소개](https://antonystudio.kr/games/ant-investor/) · [앤토니 스튜디오](https://antonystudio.kr)
+
+<details>
+<summary>구현·운영 상세</summary>
+
+- 튜토리얼 문장 중복 출력, 선택 이미지 로딩과 첫 플레이의 경합, PC·모바일 화면 충돌을 재현하고 수정·회귀검사 기록을 남겼습니다.
+- HTML·CSS·JavaScript 공통 게임과 플랫폼별 어댑터를 분리하고, AI 생성 아트 후보를 실제 화면에서 검수해 최종 자산을 선정했습니다.
+
+</details>
+
+---
+
 # Projects
 
-## 1. 🏎️ AWS DeepRacer — Physical AI 경진대회 최우수상
+<a id="dodal"></a>
+
+## 1. 💉 백신알리미+ — 부모님 예방접종을 가족과 보건소가 함께
+
+<sub>팀 도달(DODAL) · AI Tech Lead(CTO) · 2026 GovTech 아이디어 기획 · 강릉시 실증 MVP</sub>
+
+<p align="center">
+  <img src="assets/portfolio/dodal-cover.jpg" alt="백신알리미+ 보호자, 부모님 앱과 보건소 대시보드" width="760"/>
+</p>
+<details>
+<summary>보건소 대시보드와 공공데이터 병원 찾기</summary>
+
+<p align="center">
+  <img src="assets/portfolio/dodal-health-center.jpg" alt="보건소 대시보드: 지역 분석, 대상자 관리, 안내 캠페인" width="760"/>
+</p>
+<p align="center">
+  <img src="assets/portfolio/dodal-clinics.jpg" alt="강릉시 위탁의료기관 목록, 지도, 상세 화면" width="760"/>
+</p>
+
+</details>
+
+![Public Data](https://img.shields.io/badge/위탁의료기관-74곳%20수집-0047BB?style=flat-square)
+![HIRA](https://img.shields.io/badge/심평원%20API-74%2F74%20매칭-0047BB?style=flat-square)
+![Eval](https://img.shields.io/badge/AI%20상담%20평가-33%2F33-238636?style=flat-square)
+
+- 보호자, 부모님(큰 글씨·음성), 보건소 세 역할의 서비스를 설계하고 프론트엔드·서버·AI를 혼자 구현했습니다.
+- 강릉시보건소 위탁의료기관 74곳을 수집해 **건강보험심사평가원 병원정보서비스 API**로 좌표와 요양기호를 74곳 모두 매칭하고, 질병관리청 시군구 접종 통계로 **미접종 어르신 8,443명**과 **접종 기관이 없는 읍면 6곳**을 찾았습니다.
+- AI 상담은 응급 규칙 → 판단 거절 → 답변 은행 → BM25 검색 → Gemini 근거 답변 순으로 흘러, 근거가 없으면 답하지 않습니다. 평가 33문항을 통과했고 공개 서버에서는 체험 코드로 API 키를 보호합니다.
+- 두 휴대폰이 한 가족으로 묶이도록 FastAPI 서버에 낙관적 버전 동기화와 웹 푸시를 붙였습니다.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/공공데이터-심평원%20·%20질병관리청-0047BB?style=flat-square" alt="공공데이터"/>
+</p>
+
+[![Live](https://img.shields.io/badge/▶%20Live-dodal--govtech.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dodal-govtech.vercel.app)
+
+---
+
+<a id="gitory"></a>
+
+## 2. 📇 Gitory — 커밋과 PR이 자소서가 되기까지
+
+<sub>카카오테크캠퍼스 4기 경북대 1팀 · FE 리드 · 운영 서비스</sub>
+
+<p align="center">
+  <img src="assets/portfolio/gitory-hero.png" alt="Gitory 소개: 경험 카드, 공고 매칭, 자소서" width="760"/>
+</p>
+<details>
+<summary>네 걸음 흐름과 경험 카드 초안 화면</summary>
+
+<p align="center">
+  <img src="assets/portfolio/gitory-flow.png" alt="저장소 고르기, 경험 카드, 공고 매칭, 자소서로 이어지는 네 걸음" width="760"/>
+</p>
+<p align="center">
+  <img src="assets/portfolio/gitory-card-draft.gif" alt="경험 카드 초안이 근거 커밋과 함께 써지는 화면" width="760"/>
+</p>
+
+</details>
+
+![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
+![Role](https://img.shields.io/badge/Role-FE%20Lead-1f6feb?style=flat-square)
+![E2E](https://img.shields.io/badge/화면%20E2E-378개-8E75B2?style=flat-square)
+
+- 개발자 취업 준비생의 GitHub PR·리뷰·커밋을 읽어 **근거 커밋이 연결된 STAR 경험 카드**로 정리하고, 맞는 채용 공고와 자소서 초안까지 잇는 서비스입니다.
+- AI는 판단만 하고, 근거와 수치는 코드가 검사하며, 확인할 칸이 남은 카드는 확정하지 않는 구조입니다.
+- FE 리드로 라우팅, TanStack Query 서버 상태, zod API 계약, 백엔드 없이 도는 샘플 모드와 E2E를 맡았습니다.
+- 팀 전체로 화면 단위 테스트 약 1,800개, 화면 E2E 378개를 두고, CI 4개가 모두 통과해야 배포되며 확인에 실패하면 자동 롤백합니다.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+</p>
+
+[![Live](https://img.shields.io/badge/▶%20Live-gitory.duckdns.org-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gitory.duckdns.org/)
+[![Repository](https://img.shields.io/badge/GitHub-ktc4--kyungpook--1-181717?style=for-the-badge&logo=github)](https://github.com/kakaotechcampus-4/ktc4-kyungpook-1)
+
+---
+
+## 3. 🏎️ AWS DeepRacer — Physical AI 경진대회 최우수상
 
 <sub>강화학습 전략 · 보상 함수 · 실차 튜닝</sub>
 <p align="center">
@@ -78,7 +209,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 2. 🩺 Medirole — 의료인의 CPX 대비를 위한 AI 표준화환자 플랫폼
+## 4. 🩺 Medirole — 의료인의 CPX 대비를 위한 AI 표준화환자 플랫폼
 
 <sub>실시간 문진 · 자동 채점 · CODE-MEDI 해커톤 최우수상</sub>
 
@@ -117,7 +248,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 3. 🏥 Members Clinic — 첫 웹사이트에서 실제 운영 서비스까지
+## 5. 🏥 Members Clinic — 첫 웹사이트에서 실제 운영 서비스까지
 
 <sub>1인 기획·개발·운영 · Next.js 재구축</sub>
 
@@ -155,7 +286,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 4. 🛍️ MERCI — JSP·Servlet 커머스
+## 6. 🛍️ MERCI — JSP·Servlet 커머스
 
 <sub>백엔드 기본기 · 주문 트랜잭션 · 최우수 평가 및 장학금</sub>
 
@@ -193,7 +324,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 5. 🛡️ KB 머니룰 기반 안심보이스 — 시니어 금융 Agentic AI
+## 7. 🛡️ KB 머니룰 기반 안심보이스 — 시니어 금융 Agentic AI
 
 <sub>2026 KB AI Challenge · 팀 프로젝트 진행 중</sub>
 <p align="center">
@@ -213,40 +344,9 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 
 ---
 
-## 6. 🐜 개미 투자자 키우기
-
-**Apps in Toss 출시·운영** · Antony Studio
-
-가상 주식 매매와 방치형 성장을 연결한 게임입니다. 제품 기획부터 개발·아트 검수·출시·운영까지 맡았습니다.
-
-<sub>2026.10.13 기준</sub>
-
-누적 이용자 **20,160명** · D1 **46.51%** · D7 **32.34%** · 유료 결제 **676건**<br/>
-Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
-
-<p align="center">
-  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" height="440"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" height="440"/>
-</p>
-<p align="center"><sub>홈·성장 화면 &nbsp; / &nbsp; 가상 종목·매매 차트</sub></p>
-
-- **플레이 흐름:** 매매·출근으로 재화를 모으고 개미 진화·집·수집품·꾸미기로 성장합니다.
-- **개발:** 공통 웹 게임과 플랫폼별 어댑터, 자산 로딩과 저장·복구 흐름을 구현했습니다.
-- **운영:** 사용자 반응을 확인하며 첫 실행·튜토리얼·화면 안정성을 개선했습니다.
-
-[게임 소개](https://antonystudio.kr/games/ant-investor/) · [앤토니 스튜디오](https://antonystudio.kr)
-
-<details>
-<summary>구현·운영 상세</summary>
-
-- 튜토리얼 문장 중복 출력, 선택 이미지 로딩과 첫 플레이의 경합, PC·모바일 화면 충돌을 재현하고 수정·회귀검사 기록을 남겼습니다.
-- HTML·CSS·JavaScript 공통 게임과 플랫폼별 어댑터를 분리하고, AI 생성 아트 후보를 실제 화면에서 검수해 최종 자산을 선정했습니다.
-
-</details>
-
 ---
 
-## 7. 💼 CrossCheck — 미래에셋증권 AI Festival 공시 Agent
+## 8. 💼 CrossCheck — 미래에셋증권 AI Festival 공시 Agent
 
 <sub>금융 Agentic AI · RiskTwin 기획의 구현 · HyperCLOVA X · NCP 운영 배포</sub>
 
@@ -263,40 +363,48 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 
 ---
 
-## 8. 🔧 Reqover
+## 9. 🔧 Reqover
 
 **Spring 요청별 실행 관계 분석** · 2인 오픈소스 팀 · 핵심 MVP 설계·구현
 
 “이 API 요청이 실제로 어떤 코드를 실행했는가?”를 확인하는 도구입니다. 메서드 실행 기록을 요청별로 모으고, 코드에서 관련 API를 역으로 찾습니다.
 
 <p align="center">
-  <img width="680" alt="Reqover — 코드에서 관측된 API를 역으로 찾는 리포트" src="https://github.com/user-attachments/assets/a08952a3-cb7e-4010-9ab5-c706144fac2f" />
+  <img src="assets/portfolio/reqover-retest-map-current.png" alt="Reqover 0.4.2 대시보드 — 공유 코드에서 다시 확인할 API 후보" width="680"/>
 </p>
-<p align="center"><sub>코드 → API 역방향 인덱스</sub></p>
+<p align="center"><sub>Reqover 0.4.2 대시보드 · 공유 코드 → 재확인할 API 후보</sub></p>
 
-- **내 구현:** 요청별 실행 bucket·probe 라우팅, ASM 계측, Java Agent 패키징과 리포트.
-- **개발 결과:** API → 메서드 리포트와 코드 → API 역조회, 별도 JVM 에이전트 검증·데모.
-- **팀의 확장:** MVC/WebFlux 연동을 개선하고 CLI·GitHub Action으로 재검증할 API 후보를 제시합니다.
+![Release](https://img.shields.io/badge/Release-v0.4.2-5B7CFA?style=flat-square)
+![Maven Central](https://img.shields.io/badge/Maven%20Central-io.github.reqover--labs-c71a36?style=flat-square)
+![Stars](https://img.shields.io/github/stars/reqover-labs/reqover?style=flat-square&label=Stars)
+![Spring](https://img.shields.io/badge/Spring%20Boot-3.5%20MVC%20%2F%20WebFlux-6DB33F?style=flat-square)
 
-[저장소](https://github.com/reqover-labs/reqover)
+- **내 구현:** 요청별 실행 bucket·probe 라우팅, ASM 계측, Java Agent 패키징과 리포트, 코드 → API 역방향 인덱스.
+- **현재 버전(0.4.2):** 라이브러리는 Maven Central, 에이전트와 CLI는 GitHub Releases로 배포합니다. 리포트가 오프라인 대시보드가 되어 **요청별 상태·지연 통계(p95), 녹화 비교, 관측 요청 기반 테스트 초안**을 제공합니다.
+- **CI:** GitHub Action이 녹화를 분석해 PR 변경 파일로 다시 확인할 API 후보를 댓글로 남깁니다.
+
+[저장소](https://github.com/reqover-labs/reqover) · [2분 데모 영상](https://youtu.be/N62BEzVchSM) · [릴리스](https://github.com/reqover-labs/reqover/releases)
 
 <details>
-<summary>요청별 리포트와 구현 상세</summary>
+<summary>요청 진단·요청별 리포트와 구현 상세</summary>
 
+<p align="center">
+  <img src="assets/portfolio/reqover-request-diagnostics.png" alt="Reqover 요청 진단 — 요청 통계와 한 요청이 실행한 코드" width="680"/>
+</p>
 <p align="center">
   <img src="assets/portfolio/reqover-request-report.png" alt="Reqover — 요청별 실제 실행 메서드 리포트" width="680"/>
 </p>
 
 - **문제 정의:** 기존 커버리지 리포트로는 메서드가 실행됐다는 사실은 알 수 있어도 어떤 HTTP 요청이 실행했는지 알기 어려웠습니다. 요청 단위로 실행 관계를 기록하는 방향을 공동 설계했습니다.
 - **내 구현:** 요청별 실행 bucket과 probe 라우팅, ASM 메서드 진입 계측, `-javaagent` 패키징, API → 메서드 리포트와 코드 → API 역방향 인덱스, 별도 JVM 에이전트 검증·데모를 만들었습니다.
-- **팀의 확장:** Spring MVC/WebFlux 어댑터는 함께 개선했습니다. 팀은 JSON 내보내기와 CLI `render`·`diff`·`impact`, GitHub Action을 더해 변경 파일에서 다시 확인할 API 후보를 제시하는 흐름으로 확장했습니다.
-- **검증 범위:** 메서드 진입과 실제 관측된 요청을 연결합니다. 줄·분기 커버리지를 측정하는 도구와 함께 사용할 수 있습니다.
+- **팀의 확장:** Spring MVC/WebFlux 어댑터는 함께 개선했습니다. 팀은 JSON 내보내기와 CLI `render`·`diff`·`impact`, GitHub Action, 0.4 대시보드(요청 진단·녹화 비교·테스트 초안)로 확장했습니다.
+- **검증 범위:** 개발·QA·스테이징용 초기 릴리스입니다. 메서드 진입과 실제 관측된 요청을 연결하며, 줄·분기 커버리지 도구(JaCoCo)와 함께 쓰도록 설계했습니다.
 
 </details>
 
 ---
 
-## 9. ⚓ TUG GUARD
+## 10. ⚓ TUG GUARD
 
 **해양 안전 디지털 트윈** · Three.js · 비전 학습 데이터 · FastAPI
 
@@ -328,7 +436,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 
 <a id="groove-festival"></a>
 
-## 10. 🎪 GROOVE — 경북대학교 6단대 연합축제 플랫폼
+## 11. 🎪 GROOVE — 경북대학교 6단대 연합축제 플랫폼
 
 **기획 참여 · 주막 지도·QR 주문 백엔드 개발** · 2026.10.01–10.02
 
