@@ -40,7 +40,7 @@ Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고�
 - **Antony Studio CEO** · Apps in Toss 출시 5일만에 시뮬레이션 분야 1등 달성한 주식 투자 게임 '개미 투자자 키우기' 1인 개발·출시·운영
 - **백신알리미+ (팀 도달)** · 공공데이터와 Gemini로 부모님 예방접종을 가족과 보건소가 함께 챙기는 GovTech 서비스
 - **Gitory** · GitHub 커밋·PR을 근거 연결 경험 카드와 자소서로 잇는 카카오테크캠퍼스 팀 프로젝트 FE 리드
-- **Reqover** · Spring 요청별 실행 관계를 추적하는 오픈소스 도구, v0.4.2 Maven Central 배포
+- **Reqover** · 2026 오픈소스 개발자대회 동상, Spring 요청별 실행 관계를 추적하는 오픈소스 도구, v0.4.2 Maven Central 배포
 - **TUG GUARD** · 해양 시뮬레이션, 비전 학습 데이터, AI 추론 연동
 - **Financial AI** · CrossCheck 공시 근거 대조 Agent · KB 머니룰 기반 안심보이스
 - **GROOVE Festival** · 현장 주막 운영 경험을 QR 주문·운영 백엔드로 연결
@@ -363,7 +363,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 
 ---
 
-## 9. 🔧 Reqover
+## 9. 🔧 Reqover — 2026 오픈소스 개발자대회 동상
 
 **Spring 요청별 실행 관계 분석** · 2인 오픈소스 팀 · 핵심 MVP 설계·구현
 
@@ -374,6 +374,7 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 </p>
 <p align="center"><sub>Reqover 0.4.2 대시보드 · 공유 코드 → 재확인할 API 후보</sub></p>
 
+![Award](https://img.shields.io/badge/2026%20오픈소스%20개발자대회-동상-d4a72c?style=flat-square)
 ![Release](https://img.shields.io/badge/Release-v0.4.2-5B7CFA?style=flat-square)
 ![Maven Central](https://img.shields.io/badge/Maven%20Central-io.github.reqover--labs-c71a36?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/reqover-labs/reqover?style=flat-square&label=Stars)
@@ -526,6 +527,7 @@ IT·간호·예술·사회과학·사범·자연과학대학의 연합축제에 
 </p>
 
 - **경북대 × 전남대 Physical AI 경진대회(AWS DeepRacer) 최우수상**
+- **2026 오픈소스 개발자대회 동상** — Reqover
 - **카카오테크캠퍼스 아이디어톤 우수상**
 - **2026 CODE-MEDI 의료 AI·SW 융합 해커톤 최우수상** — 대한민국의학한림원 · 2026.06.29
 - **2026 해달 해커톤 인기상** — 경북대학교 IT대학 학술동아리 해달 · 2026.06.09
