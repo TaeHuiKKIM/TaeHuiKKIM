@@ -2,10 +2,12 @@
 
 # 김태희 · TaeHui Kim
 
-### AI 제품을 만들고 운영하는 Product · Backend Developer
+### 직접 운영하며, 사용자가 머무는 흐름을 설계합니다
 
-**[Antony Studio](https://antonystudio.kr) CEO** · 경북대학교 글로벌소프트웨어융합전공 · 카카오테크캠퍼스 4기<br/>
-웹 서비스에서 시작해 백엔드, 실시간 AI, 모바일과 제품 운영으로 경험을 넓혀가고 있습니다.
+**[Antony Studio](https://antonystudio.kr) CEO**<br/>
+경북대학교 글로벌소프트웨어융합전공 · 카카오테크캠퍼스 4기
+
+<sub>사용자가 어디서 머물고 어디서 떠나는지 운영하며 확인하고,<br/>그 흐름을 화면과 경험으로 다시 설계하는 Product Engineer입니다.</sub>
 
 <br/>
 
@@ -17,7 +19,6 @@
 [![Antony Studio](https://img.shields.io/badge/Antony%20Studio-CEO-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antonystudio.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TaeHui%20Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehui-kim-930713412/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kt_gml/posts)
-[![Solved.ac](https://img.shields.io/badge/Solved.ac-1043tae-00C73C?style=for-the-badge)](https://solved.ac/1043tae/)
 [![Email](https://img.shields.io/badge/tae1043@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tae1043@gmail.com)
 
 </div>
@@ -26,74 +27,63 @@
 
 ## About Me
 
-Flash로 만들어져 제대로 동작하지 않던 병원 홈페이지를 고치고 싶어 웹 개발을 시작했습니다.
-직접 사이트를 제안하고 수년간 운영한 경험을 출발점으로 서버·DB·실시간 AI·모바일까지 영역을 넓혔습니다.
+제대로 동작하지 않던 병원 홈페이지를 고치고 싶어 웹을 시작했고,<br/>
+그 사이트를 수년간 직접 운영하며 **만든 것이 실제로 쓰일 때의 감각**을 배웠습니다.
 
-지금은 다음 세 가지를 개발의 기준으로 삼고 있습니다.
+지금은 이 세 가지를 기준으로 일합니다.
 
-- **AI를 기능이 아니라 신뢰할 수 있는 제품 흐름으로 연결하기**
-- **기술 선택의 이유와 트레이드오프를 수치와 기록으로 남기기**
-- **구현에서 끝내지 않고 테스트·배포·운영까지 책임지기**
+- **첫 30초를 먼저 설계합니다.** 처음 들어온 사용자가 무엇을 보고 무엇을 누르는지부터 그립니다.
+- **운영하며 고칩니다.** 지표와 실제 반응을 보고 화면을 다듬고, 고친 이유를 기록합니다.
+- **끝까지 맡습니다.** 기획과 구현에서 멈추지 않고 출시, 운영, 개선까지 책임집니다.
 
-### Current Focus
+### Now
 
-- **Antony Studio CEO** · Apps in Toss 출시 5일만에 시뮬레이션 분야 1등 달성한 주식 투자 게임 '개미 투자자 키우기' 1인 개발·출시·운영
-- **백신알리미+ (팀 도달)** · 공공데이터와 Gemini로 부모님 예방접종을 가족과 보건소가 함께 챙기는 GovTech 서비스
-- **Gitory** · GitHub 커밋·PR을 근거 연결 경험 카드와 자소서로 잇는 카카오테크캠퍼스 팀 프로젝트 FE 리드
-- **Reqover** · 2026 오픈소스 개발자대회 동상, Spring 요청별 실행 관계를 추적하는 오픈소스 도구, v0.4.2 Maven Central 배포
-- **TUG GUARD** · 해양 시뮬레이션, 비전 학습 데이터, AI 추론 연동
-- **Financial AI** · CrossCheck 공시 근거 대조 Agent · KB 머니룰 기반 안심보이스
-- **GROOVE Festival** · 현장 주막 운영 경험을 QR 주문·운영 백엔드로 연결
+| | |
+| --- | --- |
+| 🐜 **Antony Studio** | 토스 주식 투자 게임 「개미 투자자 키우기」 1인 개발, 출시, 운영 |
+| 💉 **백신알리미+** | 부모님 예방접종을 가족과 보건소가 함께 챙기는 GovTech 서비스 (CTO) |
+| 📇 **Gitory** | 커밋과 PR을 경험 카드와 자소서로 잇는 서비스 (FE 리드) |
+| 🔧 **Reqover** | 2026 오픈소스 개발자대회 동상, Spring 요청 추적 오픈소스 |
 
-[Antony Studio](#user-content-antony-studio) · [백신알리미+](#user-content-dodal) · [Gitory](#user-content-gitory) · [의료 AI](#user-content-4--medirole--의료인의-cpx-대비를-위한-ai-표준화환자-플랫폼) · [Reqover](#user-content-9--reqover) · [TUG GUARD](#user-content-10--tug-guard) · [GROOVE](#user-content-groove-festival)
-
-<details>
-<summary>학습과 탐색</summary>
-
-- **카카오테크캠퍼스 Agentic AI** — Tool Call → Structured Output → SQLite → 출처별 RAG 학습
-- **Python · FastAPI** — AI Product/Backend 역량과 코딩테스트 기반 강화
-- **종합설계프로젝트 준비** — 평가 가능한 신뢰성 중심 Agentic AI 주제 탐색
-
-</details>
+<sub>[Antony Studio](#antony-studio) · [백신알리미+](#dodal) · [Gitory](#gitory) · [Reqover](#reqover) · [TUG GUARD](#tugguard) · [Members Clinic](#members) · [GROOVE](#groove) · [금융 AI](#kb) · [Medirole](#medirole)</sub>
 
 ---
 
 <a id="antony-studio"></a>
 
-# 🏢 Antony Studio — CEO
+# 🏢 Antony Studio
 
-**게임과 AI 제품을 만들고 직접 운영하는 1인 스튜디오** · 2026.09 개업
+<sub>게임과 AI 제품을 만들고 직접 운영하는 1인 스튜디오 · CEO · 2026.09 개업</sub>
 
 [![Website](https://img.shields.io/badge/▶%20Website-antonystudio.kr-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antonystudio.kr)
 
-- 사업자를 내고 제품 기획, 개발, 아트 검수, 출시, 지표 분석과 운영을 혼자 맡고 있습니다.
-- 첫 제품 '개미 투자자 키우기'를 Apps in Toss에 출시해 신규 게임, 시뮬레이션 분야 1위에 올랐습니다.
+### 🐜 개미 투자자 키우기
 
+출근으로 종잣돈을 모으고, 가상 주식에 투자해 개미를 키우는 게임입니다.<br/>
+Apps in Toss에 출시해 **신규 게임, 시뮬레이션 분야 1위**에 올랐습니다.
 
-### 🐜 개미 투자자 키우기 — Apps in Toss 출시·운영
+| 누적 이용자 | D1 리텐션 | D7 리텐션 | 유료 결제 |
+| :---: | :---: | :---: | :---: |
+| **58,716명** | **46.51%** | **32.34%** | **676건** |
 
-가상 주식 매매와 방치형 성장을 연결한 게임입니다. 제품 기획부터 개발·아트 검수·출시·운영까지 맡았습니다.
-
-누적 이용자 **58,716명**<sub>(2026.11.09)</sub> · D1 **46.51%** · D7 **32.34%** · 유료 결제 **676건**<sub>(2026.10.13)</sub><br/>
-Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 분야 **1위**
+<sub>누적 이용자 2026.11.09 기준, 나머지 2026.10.13 기준 · Threads 519,443회 조회</sub>
 
 <p align="center">
-  <img src="assets/portfolio/ant-worker-home.png" alt="개미 투자자 키우기 — 일개미와 강남 아파트의 홈 화면" height="440"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/portfolio/ant-stock-current.png" alt="개미 투자자 키우기 — 가상 종목과 매매 차트" height="440"/>
+  <img src="assets/portfolio/ant-home-rounded.png" alt="개미 투자자 키우기 홈 화면" height="440"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/portfolio/ant-stock-rounded.png" alt="개미 투자자 키우기 주식 매매 화면" height="440"/>
 </p>
-<p align="center"><sub>홈·성장 화면 &nbsp; / &nbsp; 가상 종목·매매 차트</sub></p>
 
-- **플레이 흐름:** 매매·출근으로 재화를 모으고 개미 진화·집·수집품·꾸미기로 성장합니다.
-- **개발:** 공통 웹 게임과 플랫폼별 어댑터, 자산 로딩과 저장·복구 흐름을 구현했습니다.
-- **운영:** 사용자 반응을 확인하며 첫 실행·튜토리얼·화면 안정성을 개선했습니다.
+- **성장 루프:** 출근 → 투자 → 진화 → 꾸미기로 이어지며 다시 접속할 이유를 만들었습니다.
+- **운영:** 사용자 반응을 보며 첫 실행, 튜토리얼, 화면 안정성을 계속 다듬습니다.
+- **개발:** 공통 웹 게임과 플랫폼별 어댑터, 저장과 복구 흐름을 구현했습니다.
 
 [게임 소개](https://antonystudio.kr/games/ant-investor/) · [앤토니 스튜디오](https://antonystudio.kr)
 
 <details>
-<summary>구현·운영 상세</summary>
+<summary>구현과 운영 상세</summary>
 
-- 튜토리얼 문장 중복 출력, 선택 이미지 로딩과 첫 플레이의 경합, PC·모바일 화면 충돌을 재현하고 수정·회귀검사 기록을 남겼습니다.
-- HTML·CSS·JavaScript 공통 게임과 플랫폼별 어댑터를 분리하고, AI 생성 아트 후보를 실제 화면에서 검수해 최종 자산을 선정했습니다.
+- 튜토리얼 문장 중복 출력, 이미지 로딩과 첫 플레이의 경합, PC와 모바일 화면 충돌을 재현해 고치고 회귀 검사 기록을 남겼습니다.
+- HTML, CSS, JavaScript 공통 게임과 플랫폼별 어댑터를 분리하고, AI 생성 아트 후보를 실제 화면에서 검수해 최종 자산을 골랐습니다.
 
 </details>
 
@@ -103,15 +93,28 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
 
 <a id="dodal"></a>
 
-## 1. 💉 백신알리미+ — 부모님 예방접종을 가족과 보건소가 함께
+## 1. 💉 백신알리미+
 
 <sub>팀 도달(DODAL) · AI Tech Lead(CTO) · 2026 GovTech 아이디어 기획 · 강릉시 실증 MVP</sub>
+
+부모님 예방접종을 **보호자, 부모님, 보건소가 함께** 챙기는 서비스입니다.
 
 <p align="center">
   <img src="assets/portfolio/dodal-cover.jpg" alt="백신알리미+ 보호자, 부모님 앱과 보건소 대시보드" width="760"/>
 </p>
+
+![Public Data](https://img.shields.io/badge/위탁의료기관-74곳%20수집-0047BB?style=flat-square)
+![HIRA](https://img.shields.io/badge/심평원%20API-74%2F74%20매칭-0047BB?style=flat-square)
+![Eval](https://img.shields.io/badge/AI%20상담%20평가-33%2F33-238636?style=flat-square)
+
+- **세 사용자, 세 화면:** 보호자, 부모님(큰 글씨와 음성), 보건소 화면을 각각 설계하고 혼자 구현했습니다.
+- **데이터로 찾은 문제:** 공공데이터로 **미접종 어르신 8,443명**과 **접종 기관 없는 읍면 6곳**을 찾았습니다.
+- **답하지 않는 AI:** 근거가 없으면 답하지 않는 상담 흐름으로 평가 33문항을 통과했습니다.
+
+[![Live](https://img.shields.io/badge/▶%20Live-dodal--govtech.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dodal-govtech.vercel.app)
+
 <details>
-<summary>보건소 대시보드와 공공데이터 병원 찾기</summary>
+<summary>보건소 대시보드, 병원 찾기, 구현 상세</summary>
 
 <p align="center">
   <img src="assets/portfolio/dodal-health-center.jpg" alt="보건소 대시보드: 지역 분석, 대상자 관리, 안내 캠페인" width="760"/>
@@ -120,41 +123,40 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
   <img src="assets/portfolio/dodal-clinics.jpg" alt="강릉시 위탁의료기관 목록, 지도, 상세 화면" width="760"/>
 </p>
 
-</details>
-
-![Public Data](https://img.shields.io/badge/위탁의료기관-74곳%20수집-0047BB?style=flat-square)
-![HIRA](https://img.shields.io/badge/심평원%20API-74%2F74%20매칭-0047BB?style=flat-square)
-![Eval](https://img.shields.io/badge/AI%20상담%20평가-33%2F33-238636?style=flat-square)
-
-- 보호자, 부모님(큰 글씨·음성), 보건소 세 역할의 서비스를 설계하고 프론트엔드·서버·AI를 혼자 구현했습니다.
-- 강릉시보건소 위탁의료기관 74곳을 수집해 **건강보험심사평가원 병원정보서비스 API**로 좌표와 요양기호를 74곳 모두 매칭하고, 질병관리청 시군구 접종 통계로 **미접종 어르신 8,443명**과 **접종 기관이 없는 읍면 6곳**을 찾았습니다.
-- AI 상담은 응급 규칙 → 판단 거절 → 답변 은행 → BM25 검색 → Gemini 근거 답변 순으로 흘러, 근거가 없으면 답하지 않습니다. 평가 33문항을 통과했고 공개 서버에서는 체험 코드로 API 키를 보호합니다.
+- 강릉시보건소 위탁의료기관 74곳을 수집해 건강보험심사평가원 병원정보서비스 API로 좌표와 요양기호를 모두 매칭했습니다. 질병관리청 시군구 접종 통계로 미접종 규모를 계산했습니다.
+- AI 상담은 응급 규칙 → 판단 거절 → 답변 은행 → BM25 검색 → Gemini 근거 답변 순서로 흐릅니다. 공개 서버에서는 체험 코드로 API 키를 보호합니다.
 - 두 휴대폰이 한 가족으로 묶이도록 FastAPI 서버에 낙관적 버전 동기화와 웹 푸시를 붙였습니다.
+- 기술: React, TypeScript, FastAPI, PostgreSQL, Gemini, 심평원과 질병관리청 공공데이터
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/공공데이터-심평원%20·%20질병관리청-0047BB?style=flat-square" alt="공공데이터"/>
-</p>
-
-[![Live](https://img.shields.io/badge/▶%20Live-dodal--govtech.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dodal-govtech.vercel.app)
+</details>
 
 ---
 
 <a id="gitory"></a>
 
-## 2. 📇 Gitory — 커밋과 PR이 자소서가 되기까지
+## 2. 📇 Gitory
 
 <sub>카카오테크캠퍼스 4기 경북대 1팀 · FE 리드 · 운영 서비스</sub>
+
+GitHub 커밋과 PR을 **근거가 연결된 경험 카드**로 바꾸고, 공고 매칭과 자소서 초안까지 잇는 서비스입니다.
 
 <p align="center">
   <img src="assets/portfolio/gitory-hero.png" alt="Gitory 소개: 경험 카드, 공고 매칭, 자소서" width="760"/>
 </p>
+
+![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
+![Role](https://img.shields.io/badge/Role-FE%20Lead-1f6feb?style=flat-square)
+![E2E](https://img.shields.io/badge/화면%20E2E-378개-8E75B2?style=flat-square)
+
+- **네 걸음 흐름:** 저장소 고르기 → 경험 카드 → 공고 매칭 → 자소서로 이어지게 설계했습니다.
+- **확인할 수 있는 AI:** AI는 판단만 하고, 근거와 수치는 코드가 검사합니다. 빈칸이 남은 카드는 확정하지 않습니다.
+- **FE 리드:** 라우팅, 서버 상태(TanStack Query), API 계약(zod), 샘플 모드와 E2E를 맡았습니다.
+
+[![Live](https://img.shields.io/badge/▶%20Live-gitory--prototypes.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gitory-prototypes.vercel.app)
+[![Repository](https://img.shields.io/badge/GitHub-ktc4--kyungpook--1-181717?style=for-the-badge&logo=github)](https://github.com/kakaotechcampus-4/ktc4-kyungpook-1)
+
 <details>
-<summary>네 걸음 흐름과 경험 카드 초안 화면</summary>
+<summary>흐름 화면, 경험 카드 초안, 품질 관리</summary>
 
 <p align="center">
   <img src="assets/portfolio/gitory-flow.png" alt="저장소 고르기, 경험 카드, 공고 매칭, 자소서로 이어지는 네 걸음" width="760"/>
@@ -163,59 +165,260 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
   <img src="assets/portfolio/gitory-card-draft.gif" alt="경험 카드 초안이 근거 커밋과 함께 써지는 화면" width="760"/>
 </p>
 
+- 팀 전체로 화면 단위 테스트 약 1,800개, 화면 E2E 378개를 두고 CI 4개가 모두 통과해야 배포합니다. 배포 확인에 실패하면 자동으로 롤백합니다.
+- 기술: React, TypeScript, TanStack Query, Spring Boot, FastAPI, Playwright
+
 </details>
-
-![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
-![Role](https://img.shields.io/badge/Role-FE%20Lead-1f6feb?style=flat-square)
-![E2E](https://img.shields.io/badge/화면%20E2E-378개-8E75B2?style=flat-square)
-
-- 개발자 취업 준비생의 GitHub PR·리뷰·커밋을 읽어 **근거 커밋이 연결된 STAR 경험 카드**로 정리하고, 맞는 채용 공고와 자소서 초안까지 잇는 서비스입니다.
-- AI는 판단만 하고, 근거와 수치는 코드가 검사하며, 확인할 칸이 남은 카드는 확정하지 않는 구조입니다.
-- FE 리드로 라우팅, TanStack Query 서버 상태, zod API 계약, 백엔드 없이 도는 샘플 모드와 E2E를 맡았습니다.
-- 팀 전체로 화면 단위 테스트 약 1,800개, 화면 E2E 378개를 두고, CI 4개가 모두 통과해야 배포되며 확인에 실패하면 자동 롤백합니다.
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-</p>
-
-[![Live](https://img.shields.io/badge/▶%20Live-gitory.duckdns.org-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gitory.duckdns.org/)
-[![Repository](https://img.shields.io/badge/GitHub-ktc4--kyungpook--1-181717?style=for-the-badge&logo=github)](https://github.com/kakaotechcampus-4/ktc4-kyungpook-1)
 
 ---
 
-## 3. 🏎️ AWS DeepRacer — Physical AI 경진대회 최우수상
+<a id="reqover"></a>
 
-<sub>강화학습 전략 · 보상 함수 · 실차 튜닝</sub>
+## 3. 🔧 Reqover — 2026 오픈소스 개발자대회 동상
+
+<sub>Spring 요청별 실행 관계 분석 · 2인 오픈소스 팀 · 핵심 MVP 설계와 구현</sub>
+
+“이 API 요청이 실제로 어떤 코드를 실행했을까?”에 답하는 도구입니다.
+
 <p align="center">
-  <img height="440" alt="image" src="https://github.com/user-attachments/assets/e5486543-3981-4915-a043-5770d9361fc0" />
+  <img src="assets/portfolio/reqover-retest-map-current.png" alt="Reqover 0.4.2 대시보드: 공유 코드에서 다시 확인할 API 후보" width="680"/>
 </p>
 
-![Award](https://img.shields.io/badge/Physical%20AI-최우수상-d4a72c?style=flat-square)
-![Models](https://img.shields.io/badge/Models-약%2050개-1f6feb?style=flat-square)
-![Direction](https://img.shields.io/badge/Track-Counterclockwise-238636?style=flat-square)
+![Award](https://img.shields.io/badge/2026%20오픈소스%20개발자대회-동상-d4a72c?style=flat-square)
+![Release](https://img.shields.io/badge/Release-v0.4.2-5B7CFA?style=flat-square)
+![Maven Central](https://img.shields.io/badge/Maven%20Central-io.github.reqover--labs-c71a36?style=flat-square)
+![Stars](https://img.shields.io/github/stars/reqover-labs/reqover?style=flat-square&label=Stars)
 
-- 학습·검증 병목을 줄이기 위해 가설 10개와 약 50개 모델을 병렬로 검증했습니다.
-- 시뮬레이터 6초대의 좌표 기반 정책이 실차에서 이탈한 원인을 카메라 지연과
-  전이되지 않는 위치 단서로 분석했습니다.
-- 좌표를 버리고 중앙선 추종·워블 억제·±20도 조향과 구간별 속도 제어를 채택해
-  **경북대 × 전남대 Physical AI 경진대회 최우수상**을 받았습니다.
+- **문제:** 커버리지로는 “어떤 요청이 이 코드를 실행했는지” 알기 어려웠습니다.
+- **내 구현:** 요청별 실행 기록, ASM 계측, Java Agent, 코드 → API 역방향 인덱스를 만들었습니다.
+- **지금:** Maven Central 배포, 오프라인 대시보드, PR에 재확인할 API를 남기는 GitHub Action까지 확장했습니다.
+
+[저장소](https://github.com/reqover-labs/reqover) · [2분 데모 영상](https://youtu.be/N62BEzVchSM) · [릴리스](https://github.com/reqover-labs/reqover/releases)
+
+<details>
+<summary>요청 진단, 요청별 리포트, 구현 상세</summary>
+
+<p align="center">
+  <img src="assets/portfolio/reqover-request-diagnostics.png" alt="Reqover 요청 진단: 요청 통계와 한 요청이 실행한 코드" width="680"/>
+</p>
+<p align="center">
+  <img src="assets/portfolio/reqover-request-report.png" alt="Reqover 요청별 실제 실행 메서드 리포트" width="680"/>
+</p>
+
+- **내 구현:** 요청별 실행 bucket과 probe 라우팅, ASM 메서드 진입 계측, `-javaagent` 패키징, API → 메서드 리포트와 코드 → API 역방향 인덱스, 별도 JVM 에이전트 검증과 데모.
+- **팀의 확장:** Spring MVC/WebFlux 어댑터를 함께 개선했고, 팀은 JSON 내보내기, CLI `render`·`diff`·`impact`, GitHub Action, 0.4 대시보드(요청 진단, 녹화 비교, 테스트 초안)로 확장했습니다.
+- **0.4.2:** 라이브러리는 Maven Central, 에이전트와 CLI는 GitHub Releases로 배포합니다. 요청별 상태와 지연 통계(p95), 녹화 비교, 관측 요청 기반 테스트 초안을 제공합니다.
+- **범위:** 개발, QA, 스테이징용 초기 릴리스입니다. 줄과 분기 커버리지 도구(JaCoCo)와 함께 쓰도록 설계했습니다.
+
+</details>
+
+---
+
+<a id="tugguard"></a>
+
+## 4. ⚓ TUG GUARD
+
+<sub>해양 안전 디지털 트윈 · Three.js · 비전 학습 데이터 · FastAPI</sub>
+
+예인 시나리오를 3D로 재현하고, 학습 데이터 생성부터 비전 추론과 위험 판단까지 연결했습니다.
+
+<p align="center">
+  <img src="assets/portfolio/tugguard-live.png" alt="TUG GUARD Three.js 장면과 시연 조작 패널" width="680"/>
+</p>
+
+- **시뮬레이터:** 본선, 예인선, 예인줄을 조작하며 방향, 줄 길이, 속력, 시간대를 바꿔 재현합니다.
+- **데이터 생성:** RGB 이미지, 픽셀 마스크, YOLO-Seg 라벨을 렌더 지오메트리에서 만듭니다.
+- **위험 판단:** 팀의 학습 모델을 연결해 줄 처짐 변화와 횡경사를 함께 평가합니다.
+
+[저장소](https://github.com/ShipTugging/tugboat-safety-twin) · [시뮬레이터](https://tugboat-safety-twin.vercel.app/)
+
+<details>
+<summary>학습 데이터, 추론 연동, 검증 상세</summary>
+
+- **학습 데이터:** 예인줄 Sag 단계와 시점, 조명, 해상 조건을 바꿔 생성했습니다. 가려진 줄은 마스크에서 제외했습니다.
+- **멀티모달 기록:** 하나의 시뮬레이션 시계로 24 FPS 영상과 100 Hz 합성 IMU를 기록하고 정합성을 검사했습니다.
+- **AI 연동:** 팀이 학습한 예인줄 분할 모델을 FastAPI 분석 서버에 연결해 마스크 품질, 줄 처짐, 영상 각도와 IMU 횡경사로 경보 상태를 계산했습니다.
+- **범위:** 모델 학습과 평가는 팀 작업이며, 실선 사고 데이터로 검증한 안전 인증 시스템은 아닙니다.
+
+</details>
+
+---
+
+<a id="members"></a>
+
+## 5. 🏥 Members Clinic — 첫 웹사이트에서 운영 서비스까지
+
+<sub>1인 기획, 디자인, 개발, 운영 · Next.js 재구축</sub>
+
+웹을 시작하게 만든 병원 홈페이지를 직접 제안해 만들고, 수년간 운영하며 다시 만들었습니다.
+
+<p align="center">
+  <img src="assets/portfolio/members-home-20261009-final.png" alt="Members Clinic 홈페이지: 전화상담, 카톡상담, 언어 선택" width="680"/>
+</p>
+
+| 지표 | 기존 | Next.js 운영 버전 |
+| --- | :---: | :---: |
+| 전송 용량 | 10,420KB | **2,567KB** (약 75% 감소) |
+| SEO | 92 | **100** |
+
+- **우선순위:** 복잡한 예약 기능보다 검색되는 콘텐츠, 상담 접근성, 낮은 운영 부담을 먼저 골랐습니다.
+- **검색 노출:** 메타데이터, sitemap, 의료와 FAQ 구조화 데이터를 적용했습니다.
+
+[![Live](https://img.shields.io/badge/▶%20Live-membersclinic.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://membersclinic.com)
+
+<details>
+<summary>측정 상세와 기술</summary>
+
+| 지표 | 기존 HTML/CSS/JS | Next.js 운영 버전 | 변화 |
+| --- | :---: | :---: | :---: |
+| 총 전송 용량 | 10,420KB | **2,567KB** | 약 75% 감소 |
+| SEO | 92 | **100** | +8 |
+| Performance | **94** | 89 | −5 |
+| LCP | **1.6초** | 2.2초 | +0.6초 |
+
+같은 Lighthouse 데스크톱 프리셋으로 측정했고, 성능 수치가 내려간 부분은 다음 최적화의 기준으로 남겼습니다.<br/>
+기술: Next.js 16, React 19, TypeScript, Tailwind CSS 4
+
+</details>
+
+---
+
+## 6. 🛍️ MERCI — JSP와 Servlet으로 만든 쇼핑몰
+
+<sub>백엔드 기본기 · 주문 트랜잭션 · 최우수 평가와 장학금</sub>
+
+<p align="center">
+  <img src="assets/portfolio/merci-main.png" alt="MERCI 쇼핑몰 메인 화면" width="680"/>
+</p>
+
+- **처음부터 끝까지:** 상품, 장바구니, PG 테스트 결제, 카카오 로그인, 관리자 기능까지 커머스 흐름을 완성했습니다.
+- **주문 정합성:** 주문 생성과 재고 차감을 한 트랜잭션으로 묶고, 초과 판매를 막았습니다.
+- **결과:** Java 2,127줄, JSP 56개 규모로 완성해 **최우수 평가와 장학금**을 받았습니다.
+
+<details>
+<summary>상품 상세, 주문 화면, 구현 상세</summary>
+
+<p align="center">
+  <img src="assets/portfolio/merci-detail.png" alt="MERCI 상품 상세 화면" width="680"/>
+</p>
+<p align="center">
+  <img src="assets/portfolio/merci-cart.png" alt="MERCI 장바구니와 주문 화면" width="680"/>
+</p>
+
+- JSP, Servlet, JDBC, MySQL로 요청, 세션, 인증과 DB 반영 흐름을 직접 구현했습니다.
+- 실패하면 rollback하고, `WHERE stock >= ?` 조건으로 초과 판매를 차단했습니다.
+- DAO 9개, 모델 10개, 처리 컨트롤러 22개.
+
+</details>
+
+---
+
+<a id="groove"></a>
+
+## 7. 🎪 GROOVE — 경북대 6개 단과대학 연합축제
+
+<sub>기획 참여 · 주막 지도와 QR 주문 백엔드 · 2026.10.01–10.02</sub>
+
+직접 주막을 운영하며 본 병목을 **QR 주문과 입금 확인 흐름**으로 바꿨습니다.
+
+<p align="center">
+  <img src="assets/portfolio/groove-home-20261007.png" alt="GROOVE 공개 홈페이지 메인" width="680"/>
+</p>
+
+- **현장에서 찾은 문제:** 손님이 입금 화면을 보여주고 직원이 테이블을 돌던 흐름이 병목이었습니다.
+- **바꾼 흐름:** QR 주문 → 입금자명 제출 → 관리자 확인 → 조리와 서빙을 한곳에서 보게 했습니다.
+- **규모:** 참여 단과대학 재학생 8,937명, 주막 22곳의 지도와 주문 API를 만들었습니다.
+
+[축제 웹사이트](https://chcse.knu.ac.kr/groove/) · [팀 프론트엔드 저장소](https://github.com/groove-festival/groove-client)
+
+<details>
+<summary>주문 정합성, 운영 경험, 검증 상세</summary>
+
+- **운영 경험:** 컴퓨터학부 주막 운영 인원 39명과 메뉴, 가격, 매출, 주방과 서빙 동선을 함께 관리했습니다. 전적 대학에서 3일간 총매출 약 1,700만 원의 주막 운영에 참여한 경험도 적용했습니다.
+- **중복 방지:** 같은 멱등 키의 재요청에는 최초 주문 결과를 돌려주고, 메뉴명과 금액을 주문 당시 값으로 보관했습니다.
+- **상태 정합성:** 입금자명 수정과 승인, 승인과 취소가 동시에 들어오는 상황을 조건부 UPDATE와 비관적 락으로 처리했습니다.
+- **검증:** 병합 PR 기준 전체 35개 테스트와 주막 관련 통합, 동시성 시나리오 19개 통과를 확인했습니다.
+- **범위:** 메인 화면을 포함한 프론트엔드는 팀 결과물입니다. 8,937명은 재학생 규모이며 실제 이용자 수가 아닙니다. 출처: [경북대학교 2026 통계연보](https://ir.knu.ac.kr/state/report.php?isc_no=2081&isg_no=54)
+
+</details>
+
+---
+
+## 8. 🏎️ AWS DeepRacer — Physical AI 경진대회 최우수상
+
+<sub>강화학습 전략 · 보상 함수 · 실차 튜닝</sub>
+
+<p align="center">
+  <img height="400" alt="AWS DeepRacer 실차" src="https://github.com/user-attachments/assets/e5486543-3981-4915-a043-5770d9361fc0" />
+</p>
+
+- **빠른 검증:** 가설 10개, 모델 약 50개를 병렬로 돌려 학습 병목을 줄였습니다.
+- **실패 분석:** 시뮬레이터에서 빠르던 정책이 실차에서 이탈한 원인을 카메라 지연에서 찾았습니다.
+- **결과:** 중앙선 추종과 구간별 속도 제어로 바꿔 **경북대 × 전남대 Physical AI 경진대회 최우수상**을 받았습니다.
 
 [![Repository](https://img.shields.io/badge/GitHub-DeepRacer%20기록-181717?style=for-the-badge&logo=github)](https://github.com/TaeHuiKKIM/deepracer-physical-ai)
 
 ---
 
-## 4. 🩺 Medirole — 의료인의 CPX 대비를 위한 AI 표준화환자 플랫폼
+<a id="kb"></a>
+
+## 9. 🛡️ KB 안심보이스 — 시니어 금융 Agentic AI
+
+<sub>2026 KB AI Challenge · 팀 프로젝트</sub>
+
+<p align="center">
+  <img width="680" alt="KB 안심보이스 화면" src="https://github.com/user-attachments/assets/4ae8d9ff-d05b-4a2b-b41e-f4497555bf0c" />
+</p>
+
+- **누구를 위해:** 시니어가 말과 글로 금융 업무를 요청하는 에이전트입니다.
+- **권한 분리:** LLM은 이해와 설명만 하고, 실행 여부는 규칙과 서버 코드가 판단합니다.
+- **안전장치:** 중요한 거래는 사용자 규칙과 **일회용 승인 토큰**을 모두 통과해야 실행됩니다.
+
+[공개 저장소와 구현 기록](https://github.com/TaeHuiKKIM/kb-ansimvoice)
+
+---
+
+## 10. 💼 CrossCheck — 공시 근거 대조 Agent
+
+<sub>미래에셋증권 AI Festival · RiskTwin 기획의 구현 · HyperCLOVA X · NCP 배포</sub>
+
+여러 공시를 찾아 비교하고 계산한 뒤, **모든 결론을 원문 근거와 다시 대조**하는 Agent입니다.
+
+<p align="center">
+  <img src="assets/portfolio/crosscheck-flow.png" alt="CrossCheck Agent 흐름도: 질문 이해, 공시 검색, 계산과 답변 생성, 근거 대조 검증" width="760"/>
+</p>
+
+- **근거 우선:** 근거가 부족하면 단정하지 않고 한계를 답합니다.
+- **닫힌 데이터:** 주최 측 70개 기업 공시만 쓰고 웹과 실시간 공시는 쓰지 않습니다.
+- **검증:** FastAPI 공개 API를 NCP에 배포했고 회귀 테스트 3,213개를 통과했습니다.
+
+<details>
+<summary>Agent 흐름 상세</summary>
+
+- 질문 정책 → 기업과 기간 해석 → 결정론적 계획 → 필터 검색(SQLite FTS5) → 근거 충분성 확인 → 타입 계산(Decimal) → HCX-007 구조화 답변 → 주장과 인용 근거 대조 → 1회 제한 수정.
+- 복합 질문은 Typed Evidence Execution Graph로 컴파일합니다.
+- 7월에 기획한 RiskTwin(추천, 반대 검토, 적합성 판단, 근거 검증 4개 역할)을 공시 Agent로 직접 구현했습니다. 문제 정의부터 설계, 구현, 배포까지 맡았습니다.
+
+</details>
+
+---
+
+<a id="medirole"></a>
+
+## 11. 🩺 Medirole — AI 표준화환자 플랫폼
 
 <sub>실시간 문진 · 자동 채점 · CODE-MEDI 해커톤 최우수상</sub>
 
+의료인의 CPX(임상수행시험) 대비를 위한 AI 표준화환자입니다.
+
 <p align="center">
-  <img src="assets/portfolio/cpx-final-home.png" alt="MediCPX 시나리오 대시보드" width="680"/>
+  <img src="assets/portfolio/cpx-final-home.png" alt="Medirole 시나리오 대시보드" width="680"/>
 </p>
+
+- **실시간 문진:** FastAPI WebSocket으로 음성과 텍스트 문진을 구현했습니다.
+- **진짜 시험처럼:** 정확히 질문해야 정보를 알려주는 환자와 12분 제한을 설계했습니다.
+- **자동 채점:** 40개 체크리스트를 복원하고, 채점이 실패해도 대화 기록을 잃지 않게 했습니다.
+
 <details>
 <summary>문진 화면과 평가 리포트</summary>
 
@@ -226,324 +429,66 @@ Threads **519,443회 조회** · 출시 초기 신규 게임·시뮬레이션 �
   <img src="assets/portfolio/cpx-final-report.png" alt="Medirole 자동 채점 리포트" width="680"/>
 </p>
 
-</details>
-
-![Award](https://img.shields.io/badge/CODE--MEDI-최우수상-d4a72c?style=flat-square)
-![Exam](https://img.shields.io/badge/Exam-12%20min-8E75B2?style=flat-square)
-![Checklist](https://img.shields.io/badge/Checklist-40-8E75B2?style=flat-square)
-
-- **FastAPI WebSocket으로 실시간 음성·텍스트 문진**을 구현했습니다.
-- 학생이 정확히 질문하기 전에는 정보를 공개하지 않는 환자 상태와 **12분 시험 제한**을 설계했습니다.
-- Gemini Structured Output이 근거 있는 항목을 반환하고 서버가 전체 **40개 체크리스트**를 복원하도록 구성했습니다.
-- 채점이 지연되거나 실패해도 대화 기록을 잃지 않는 복구 리포트를 제공했습니다.
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
----
-
-## 5. 🏥 Members Clinic — 첫 웹사이트에서 실제 운영 서비스까지
-
-<sub>1인 기획·개발·운영 · Next.js 재구축</sub>
-
-<p align="center">
-  <img src="assets/portfolio/members-home-20261009-final.png" alt="Members Clinic 홈페이지 — 전화상담·카톡상담·언어 선택" width="680"/>
-</p>
-
-![Status](https://img.shields.io/badge/Status-Live-238636?style=flat-square)
-![Role](https://img.shields.io/badge/Role-Solo%20Product-1f6feb?style=flat-square)
-![Transfer](https://img.shields.io/badge/Transfer-%E2%88%9275%25-238636?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO-100-238636?style=flat-square)
-
-- Flash 기반 사이트를 보고 웹을 독학한 뒤 병원에 직접 개선을 제안해 **기획·디자인·개발·배포**를 맡았습니다.
-- 운영 경험을 바탕으로 복잡한 예약 서버보다 검색 가능한 콘텐츠, 상담 접근성과 낮은 운영 복잡도를 우선했습니다.
-- 메타데이터, sitemap, robots와 의료·FAQ·Breadcrumb 구조화 데이터를 적용했습니다.
-- 동일 Lighthouse 데스크톱 프리셋에서 전송량을 **10,420KB → 2,567KB(약 75% 감소)**, SEO를 **92 → 100**으로 개선했습니다.
-
-| 지표 | 기존 HTML/CSS/JS | Next.js 운영 버전 | 변화 |
-| --- | :---: | :---: | :---: |
-| 총 전송 용량 | 10,420KB | **2,567KB** | **약 75% 감소** |
-| SEO | 92 | **100** | **+8** |
-| Performance | **94** | 89 | −5 |
-| LCP | **1.6초** | 2.2초 | +0.6초 |
-
-검색 가능한 콘텐츠와 유지보수성을 중심으로 재구축하고, 전후 측정 결과를 다음 최적화의 기준으로 기록했습니다.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind%204-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4"/>
-</p>
-
-[![Live](https://img.shields.io/badge/▶%20Live-membersclinic.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://membersclinic.com)
-
----
-
-## 6. 🛍️ MERCI — JSP·Servlet 커머스
-
-<sub>백엔드 기본기 · 주문 트랜잭션 · 최우수 평가 및 장학금</sub>
-
-<p align="center">
-  <img src="assets/portfolio/merci-main.png" alt="MERCI 쇼핑몰 메인 화면" width="680"/>
-</p>
-<details>
-<summary>상품 상세와 주문 화면</summary>
-
-<p align="center">
-  <img src="assets/portfolio/merci-detail.png" alt="MERCI 상품 상세 화면" width="680"/>
-</p>
-<p align="center">
-  <img src="assets/portfolio/merci-cart.png" alt="MERCI 장바구니와 주문 화면" width="680"/>
-</p>
-
-</details>
-
-![Result](https://img.shields.io/badge/Result-Top%20Evaluation-d4a72c?style=flat-square)
-![Integrity](https://img.shields.io/badge/Integrity-Atomic%20Order-238636?style=flat-square)
-![Scale](https://img.shields.io/badge/Scale-56%20JSP-6e7681?style=flat-square)
-
-- JSP·Servlet·JDBC·MySQL로 요청, 세션, 인증과 DB 반영 흐름을 직접 구현했습니다.
-- 주문 생성, 주문 항목 삽입과 재고 차감을 하나의 트랜잭션으로 묶고 실패 시 rollback했습니다.
-- `WHERE stock >= ?` 조건으로 초과 판매를 차단했습니다.
-- PG 테스트 결제, 카카오 OAuth2, 상품·주문·Q&A 관리자 기능까지 커머스 흐름을 완성했습니다.
-- DAO 9개, 모델 10개, JSP 56개, 처리 컨트롤러 22개와 Java 2,127 LOC 규모로 완성해 **최우수 평가와 장학금**을 받았습니다.
-
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-E76F00?style=flat-square&logo=apachetomcat&logoColor=white" alt="JSP and Servlet"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/JDBC-59666C?style=flat-square" alt="JDBC"/>
-</p>
-
----
-
-## 7. 🛡️ KB 머니룰 기반 안심보이스 — 시니어 금융 Agentic AI
-
-<sub>2026 KB AI Challenge · 팀 프로젝트 진행 중</sub>
-<p align="center">
-  <img width="680" alt="image" src="https://github.com/user-attachments/assets/4ae8d9ff-d05b-4a2b-b41e-f4497555bf0c" />
-</p>
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-d4a72c?style=flat-square)
-![Safety](https://img.shields.io/badge/Safety-Deterministic%20Rules-238636?style=flat-square)
-![Approval](https://img.shields.io/badge/Approval-One--time%20Token-1f6feb?style=flat-square)
-
-- 시니어 사용자가 음성과 텍스트로 금융 업무를 요청할 수 있는 에이전트를 개발하고 있습니다.
-- LLM은 의도 구조화와 설명을 담당하고, 실제 실행 가능 여부는 **결정론 규칙과 서버 코드**가 판단하도록 권한을 분리했습니다.
-- 중요한 거래는 사용자가 확인한 규칙과 **일회용 승인 토큰**을 모두 검증한 뒤에만 실행되도록 설계했습니다.
-- 외부 API 없이 재현하는 offline 모드와 실제 연동을 분리하고, 골든셋으로 안전 개입 단계를 평가하고 있습니다.
-
-> [공개 저장소와 구현 기록](https://github.com/TaeHuiKKIM/kb-ansimvoice)
-
----
-
----
-
-## 8. 💼 CrossCheck — 미래에셋증권 AI Festival 공시 Agent
-
-<sub>금융 Agentic AI · RiskTwin 기획의 구현 · HyperCLOVA X · NCP 운영 배포</sub>
-
-<p align="center">
-  <img src="assets/portfolio/crosscheck-flow.png" alt="CrossCheck Agent 흐름도: 질문 이해, 공시 검색, 계산과 답변 생성, 근거 대조 검증, 출처가 붙은 답변" width="760"/>
-</p>
-<p align="center"><sub>CrossCheck · Agentic flow</sub></p>
-
-- 공시를 그럴듯하게 요약하는 챗봇이 아니라, **여러 공시를 찾아 비교·계산한 뒤 모든 결론을 원문 근거와 다시 대조하는 Agent**를 만들었습니다.
-- 7월에 기획한 RiskTwin(추천·반대 검토·적합성 판단·근거 검증 4개 역할 설계)을 공시 Agent로 직접 구현했습니다.
-- **질문 정책 → 기업·기간 해석 → 결정론적 계획 → 필터 검색(SQLite FTS5) → 근거 충분성 확인 → 타입 계산(Decimal) → HCX-007 구조화 답변 → 주장·인용 근거 대조 → 1회 제한 수정**으로 흐름을 나눠, 근거가 부족하면 단정하지 않고 한계를 답합니다.
-- 주최 측 70개 기업 공시만 사용하고 웹·뉴스·실시간 OpenDART는 쓰지 않습니다. 복합 질문은 Typed Evidence Execution Graph로 컴파일합니다.
-- FastAPI 공개 API를 NCP에 배포했고 단위·통합·API 회귀 테스트 3,213개를 통과했습니다. 문제 정의부터 Agent 설계, 구현, 배포까지 맡았습니다.
-
----
-
-## 9. 🔧 Reqover — 2026 오픈소스 개발자대회 동상
-
-**Spring 요청별 실행 관계 분석** · 2인 오픈소스 팀 · 핵심 MVP 설계·구현
-
-“이 API 요청이 실제로 어떤 코드를 실행했는가?”를 확인하는 도구입니다. 메서드 실행 기록을 요청별로 모으고, 코드에서 관련 API를 역으로 찾습니다.
-
-<p align="center">
-  <img src="assets/portfolio/reqover-retest-map-current.png" alt="Reqover 0.4.2 대시보드 — 공유 코드에서 다시 확인할 API 후보" width="680"/>
-</p>
-<p align="center"><sub>Reqover 0.4.2 대시보드 · 공유 코드 → 재확인할 API 후보</sub></p>
-
-![Award](https://img.shields.io/badge/2026%20오픈소스%20개발자대회-동상-d4a72c?style=flat-square)
-![Release](https://img.shields.io/badge/Release-v0.4.2-5B7CFA?style=flat-square)
-![Maven Central](https://img.shields.io/badge/Maven%20Central-io.github.reqover--labs-c71a36?style=flat-square)
-![Stars](https://img.shields.io/github/stars/reqover-labs/reqover?style=flat-square&label=Stars)
-![Spring](https://img.shields.io/badge/Spring%20Boot-3.5%20MVC%20%2F%20WebFlux-6DB33F?style=flat-square)
-
-- **내 구현:** 요청별 실행 bucket·probe 라우팅, ASM 계측, Java Agent 패키징과 리포트, 코드 → API 역방향 인덱스.
-- **현재 버전(0.4.2):** 라이브러리는 Maven Central, 에이전트와 CLI는 GitHub Releases로 배포합니다. 리포트가 오프라인 대시보드가 되어 **요청별 상태·지연 통계(p95), 녹화 비교, 관측 요청 기반 테스트 초안**을 제공합니다.
-- **CI:** GitHub Action이 녹화를 분석해 PR 변경 파일로 다시 확인할 API 후보를 댓글로 남깁니다.
-
-[저장소](https://github.com/reqover-labs/reqover) · [2분 데모 영상](https://youtu.be/N62BEzVchSM) · [릴리스](https://github.com/reqover-labs/reqover/releases)
-
-<details>
-<summary>요청 진단·요청별 리포트와 구현 상세</summary>
-
-<p align="center">
-  <img src="assets/portfolio/reqover-request-diagnostics.png" alt="Reqover 요청 진단 — 요청 통계와 한 요청이 실행한 코드" width="680"/>
-</p>
-<p align="center">
-  <img src="assets/portfolio/reqover-request-report.png" alt="Reqover — 요청별 실제 실행 메서드 리포트" width="680"/>
-</p>
-
-- **문제 정의:** 기존 커버리지 리포트로는 메서드가 실행됐다는 사실은 알 수 있어도 어떤 HTTP 요청이 실행했는지 알기 어려웠습니다. 요청 단위로 실행 관계를 기록하는 방향을 공동 설계했습니다.
-- **내 구현:** 요청별 실행 bucket과 probe 라우팅, ASM 메서드 진입 계측, `-javaagent` 패키징, API → 메서드 리포트와 코드 → API 역방향 인덱스, 별도 JVM 에이전트 검증·데모를 만들었습니다.
-- **팀의 확장:** Spring MVC/WebFlux 어댑터는 함께 개선했습니다. 팀은 JSON 내보내기와 CLI `render`·`diff`·`impact`, GitHub Action, 0.4 대시보드(요청 진단·녹화 비교·테스트 초안)로 확장했습니다.
-- **검증 범위:** 개발·QA·스테이징용 초기 릴리스입니다. 메서드 진입과 실제 관측된 요청을 연결하며, 줄·분기 커버리지 도구(JaCoCo)와 함께 쓰도록 설계했습니다.
-
-</details>
-
----
-
-## 10. ⚓ TUG GUARD
-
-**해양 안전 디지털 트윈** · Three.js · 비전 학습 데이터 · FastAPI
-
-예인 시나리오를 3D로 재현하고, 학습용 데이터 생성과 비전 모델 추론·위험 판단을 연결했습니다.
-
-<p align="center">
-  <img src="assets/portfolio/tugguard-live.png" alt="TUG GUARD 실제 Three.js 전체 보기와 시연 조작 패널" width="680"/>
-</p>
-<p align="center"><sub>예인선·예인줄의 3D 장면과 시연 조작 패널</sub></p>
-
-- **데이터 생성:** RGB 이미지·픽셀 마스크·YOLO-Seg 라벨을 렌더 지오메트리에서 생성.
-- **동기화:** 공통 시뮬레이션 시계로 24 FPS 영상과 100 Hz 합성 IMU 기록.
-- **추론·위험 판단:** 팀의 학습 모델을 연동하고 마스크 품질·줄 처짐 변화·횡경사를 함께 평가.
-
-[저장소](https://github.com/ShipTugging/tugboat-safety-twin) · [시뮬레이터](https://tugboat-safety-twin.vercel.app/)
-
-<details>
-<summary>학습 데이터·추론 연동·검증 상세</summary>
-
-- **시뮬레이터:** 본선·ASD 예인선·예인줄을 조작하는 Three.js 장면과 고정 CCTV 시점을 구현했습니다. 방향·줄 길이·속력·시간대를 바꿔 시나리오를 재현합니다.
-- **내가 만든 학습 데이터 흐름:** 예인줄 Sag 단계와 시점·조명·해상 조건을 달리한 RGB 이미지, 픽셀 마스크, YOLO-Seg 폴리곤 라벨을 생성했습니다. 렌더 지오메트리로 정답을 만들고 가려진 줄은 마스크에서 제외했습니다.
-- **멀티모달 기록:** 하나의 시뮬레이션 시계를 기준으로 24 FPS 영상과 100 Hz 합성 IMU를 기록하고 시각·프레임·센서값의 정합성을 검사했습니다.
-- **AI 연동과 위험 판단:** 팀이 학습한 예인줄 분할 모델을 FastAPI 분석 서버에 연결했습니다. 예측 마스크의 품질, 줄 처짐 변화, 영상 각도와 IMU 횡경사를 시간에 따라 결합해 경보 상태를 계산했습니다.
-- **검증:** 분할 라벨 변환·영상/IMU 동기화·서버 응답·경보 지속/회복 조건을 재현 가능한 시나리오와 테스트로 확인했습니다. 모델 학습·평가는 팀 작업이며, 실선 사고 데이터로 검증한 안전 인증 시스템은 아닙니다.
-
-</details>
-
----
-
-<a id="groove-festival"></a>
-
-## 11. 🎪 GROOVE — 경북대학교 6단대 연합축제 플랫폼
-
-**기획 참여 · 주막 지도·QR 주문 백엔드 개발** · 2026.10.01–10.02
-
-IT·간호·예술·사회과학·사범·자연과학대학의 연합축제에 주막 지도, QR 주문, 가요제·이벤트·플레이리스트를 연결한 팀 웹서비스입니다. 저는 **주막 운영에서 발견한 병목을 주문·입금 확인 흐름과 Spring Boot 백엔드로 구체화**했습니다.
-
-행사 대상 규모: 참여 6개 단과대학의 **학부 재학생 합계 8,937명**.<br/>
-<sub>경북대학교 2026 통계연보 · 2026.04.01 기준 · [단과대학별 학생 현황](https://ir.knu.ac.kr/state/report.php?isc_no=2081&isg_no=54)</sub>
-
-<p align="center">
-  <img src="assets/portfolio/groove-home-20261007.png" alt="GROOVE 공개 홈페이지 메인 — 축제명, 10월 1~2일 일정과 참여 6개 단과대학" width="680"/>
-</p>
-<p align="center"><sub>GROOVE 공개 웹 메인 · 2026.10.07 캡처</sub></p>
-
-- **현장 운영:** 컴퓨터학부 주막 **39명 규모의 운영 인원과 **함께하며 메뉴·가격 책정, 매출관리, 고객 유입과 주방·서빙 동선을 함께 관리했습니다.
-- **운영 설계:** 손님이 입금 화면을 반복해서 보여주고 직원이 테이블을 순회하던 병목을, **QR 주문 → 입금자명 제출 → 관리자 확인 → 조리·서빙**으로 연결해 한곳에서 확인하는 흐름으로 설계했습니다.
-- **백엔드 구현:** 22개 주막 운영을 위한 지도·관리 API, 테이블 QR 식별, 서버 측 금액 계산과 주문 스냅샷을 구현했습니다. 멱등 키·유일 제약·잠금·조건부 갱신으로 **중복 주문과 승인·취소 상태 경합**을 다뤘습니다.
-- **사업 감각:** 전적 대학에서 **3일간 총매출 약 1,700만 원의 주막 운영에 참여한 경험**을 메뉴·가격·주방·서빙 개선에 적용하고, 현장 요구사항을 서비스 개발과 연결했습니다.
-
-[축제 웹사이트](https://chcse.knu.ac.kr/groove/) · [팀 프론트엔드 저장소](https://github.com/groove-festival/groove-client)
-
-<details>
-<summary>주문 정합성·운영 흐름·검증 상세</summary>
-
-- **개인 기여:** 축제 웹사이트 기획 참여와 Spring Boot 주막 지도·QR 주문 API 개발입니다. 메인 화면을 포함한 프론트엔드는 팀 결과물입니다.
-- **중복 방지:** 같은 멱등 키의 재요청에 최초 주문 결과를 재현하고, 메뉴명·단가·금액을 주문 당시 값으로 보관했습니다.
-- **상태 정합성:** 입금자명 수정과 관리자 승인, 승인과 취소가 동시에 들어오는 상황을 상태 전이·조건부 UPDATE·비관적 락으로 처리했습니다. 실제 입금은 관리자가 확인하도록 역할을 분리했습니다.
-- **검증 기록:** 병합 PR 기준 전체 35개 테스트와 주막 관련 통합·동시성 시나리오 19개 통과를 확인했습니다. 이번 README 작업에서 해당 테스트를 새로 실행한 것은 아닙니다.
-- **수치 범위:** 8,937명은 참여 단과대학의 재학생 규모, 39명은 주막 운영 인원, 1,700만 원은 전적 대학 행사 총매출입니다. 서로 다른 경험과 실제 서비스 이용자 수를 합산하지 않습니다.
+기술: React, FastAPI, WebSocket, Supabase, Gemini Structured Output, Docker
 
 </details>
 
 ---
 
 <details>
-<summary><strong>📦 More Products & Experiments — 추가 프로젝트 펼쳐보기</strong></summary>
+<summary><strong>📦 More Products & Experiments</strong></summary>
 
 <br/>
 
-| 프로젝트 | 문제와 구현 | 핵심 기술 · 결과 |
+| 프로젝트 | 무엇을 | 기술 |
 | --- | --- | --- |
-| **🧭 Agent SEO Kit** | 읽기 전용 SEO 점검·승인된 수정·근거 기반 재검증을 분리 | Codex·Claude Code Agent Skills |
-| **🤖 카카오테크캠퍼스 팀 프로젝트** | 일정 Tool·구조화 요청·SQLite 기록·RAG 및 팀 프론트엔드 구현 | Python · TypeScript · Agentic AI |
-| **🗓️ 시간모아** | 로그인 없이 링크로 일정을 모으고 연속 가능한 시간을 추천 | Next.js, TypeScript, Supabase Postgres, SHA-256 토큰 |
-| **📄 ReadmePDF** | 파일을 서버에 보내지 않고 브라우저에서 Markdown·PDF 처리 | Next.js Static Export, pdf-lib, JSZip, 4개 언어 56개 경로 |
-| **💤 Free-Tier Sleep** | 12일 해커톤에서 두 장르를 연결한 메타픽션 게임 | Unity, C#, 인트로·팝업·절차적 오디오 담당 |
-| **🧹 Photo Sweep** | 사진·EXIF를 서버에 보내지 않는 로컬 우선 Android 정리 앱 | Expo, React Native, TypeScript, 시스템 삭제 확인 |
-| **🎥 Virtual Face Cam** | OBS 기반 크로스플랫폼 버전과 macOS 네이티브 카메라 확장 도전 | Python, SwiftUI, CoreMediaIO |
-| **✨ Clinic Website Productization** | 병원 홈페이지 제작·SEO·영업 흐름을 반복 가능한 제품으로 구조화 | Next.js, 6개 테마, SEO Automation, Sales Kit |
+| **🧭 Agent SEO Kit** | SEO 점검, 승인된 수정, 근거 기반 재검증을 분리 | Codex, Claude Code Agent Skills |
+| **🗓️ 시간모아** | 로그인 없이 링크로 일정을 모으고 가능한 시간을 추천 | Next.js, Supabase |
+| **📄 ReadmePDF** | 파일을 서버에 보내지 않고 브라우저에서 Markdown, PDF 처리 | Next.js, pdf-lib |
+| **💤 Free-Tier Sleep** | 12일 해커톤 메타픽션 게임 | Unity, C# |
+| **🧹 Photo Sweep** | 사진을 서버에 보내지 않는 Android 정리 앱 | Expo, React Native |
+| **🎥 Virtual Face Cam** | OBS 기반 크로스플랫폼, macOS 네이티브 카메라 확장 | Python, SwiftUI |
 
-### Links
-
-- [개미 투자자 키우기](https://antonystudio.kr/games/ant-investor/)
-- [ReadmePDF](https://web-readme-pdf-free-mrgf3o4gbe0b862a.sel3.cloudtype.app/)
-- [Virtual Face Cam](https://github.com/TaeHuiKKIM/virtual-face-cam)
-- [Virtual Face Cam for macOS](https://github.com/TaeHuiKKIM/virtual-face-cam-mac)
+[ReadmePDF](https://web-readme-pdf-free-mrgf3o4gbe0b862a.sel3.cloudtype.app/) · [Virtual Face Cam](https://github.com/TaeHuiKKIM/virtual-face-cam) · [Virtual Face Cam for macOS](https://github.com/TaeHuiKKIM/virtual-face-cam-mac)
 
 </details>
 
 ---
-
-## 기록하고 검증하는 방식
-
-- 같은 Todo 앱을 **Vanilla JS + localStorage → React + Vite → Next.js + FastAPI + SQLAlchemy**로 다시 만들며 상태·컴포넌트·서버 경계를 비교했습니다.
-- 카카오테크캠퍼스 학습은 GitHub Issue에 **주차별 회고와 리뷰 반영 과정**을 기록합니다.
-- AI가 작성한 코드도 tool arguments, 저장 결과, 반환 계약과 경계 조건을 직접 실행해 확인합니다.
-- 프로젝트마다 `docs/`에 기획, 아키텍처, 트러블슈팅과 검증 근거를 남기고 README를 현재 상태와 맞춥니다.
-
-→ [kakaotech-learning-log](https://github.com/TaeHuiKKIM/kakaotech-learning-log)
 
 ## Tech Stack
 
 | Area | Tools |
 | --- | --- |
-| **AI Product & Backend** | Python · FastAPI · LangChain · Structured Output · WebSocket · Java · Spring Boot |
-| **Web Product** | TypeScript · React · Next.js · JavaScript · Tailwind CSS |
-| **Data** | MySQL · PostgreSQL · SQLite · Supabase · ChromaDB |
-| **Delivery & Test** | Docker · GitHub Actions · Vercel · Cloudtype · Vitest · Playwright · Pytest |
-| **Other Platforms** | React Native · Expo · Unity · C# · SwiftUI |
-| **3D & Vision** | Three.js · React Three Fiber · YOLO-Seg 학습 데이터 · 합성 비전/IMU |
+| **Product & Web** | TypeScript, React, Next.js, Tailwind CSS, Vite |
+| **Backend & AI** | Python, FastAPI, Java, Spring Boot, Structured Output, WebSocket |
+| **Data** | PostgreSQL, MySQL, SQLite, Supabase |
+| **Ship & Test** | Vercel, Docker, GitHub Actions, Playwright, Vitest, Pytest |
+| **More** | React Native, Expo, Unity, Three.js, SwiftUI |
 
-## Credentials & Activities
-
-### 🏆 Awards
+## Awards
 
 <p align="center">
-  <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" height="440"/>
+  <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" height="360"/>
 </p>
 
-- **경북대 × 전남대 Physical AI 경진대회(AWS DeepRacer) 최우수상**
-- **2026 오픈소스 개발자대회 동상(후원기업상)** — Reqover · 과학기술정보통신부 주최 · 정보통신산업진흥원 주관 · 2026.11
-- **카카오테크캠퍼스 아이디어톤 우수상**
-- **2026 CODE-MEDI 의료 AI·SW 융합 해커톤 최우수상** — 대한민국의학한림원 · 2026.06.29
-- **2026 해달 해커톤 인기상** — 경북대학교 IT대학 학술동아리 해달 · 2026.06.09
-- **2025 TU 소프트웨어 경진대회 장려상(교내 SW경진대회)** — 한국공학대학교 · 2025.11.19
-- **2025 시흥실록지리지 장려상** — 학생주도형 지역문제 해결 프로젝트 · 한국공학대학교 창업교육센터 · 2025.12.05
-- 백엔드 프로젝트 최우수 평가 및 **장학금** 수혜
+| 연도 | 수상 | 프로젝트 |
+| :---: | --- | --- |
+| 2026 | **오픈소스 개발자대회 동상(후원기업상)** · 과학기술정보통신부 주최 | Reqover |
+| 2026 | **Physical AI 경진대회 최우수상** · 경북대 × 전남대 | AWS DeepRacer |
+| 2026 | **CODE-MEDI 의료 AI, SW 융합 해커톤 최우수상** · 대한민국의학한림원 | Medirole |
+| 2026 | **카카오테크캠퍼스 아이디어톤 우수상** | |
+| 2026 | **해달 해커톤 인기상** · 경북대 IT대학 해달 | |
+| 2025 | **TU 소프트웨어 경진대회 장려상** · 한국공학대학교 | |
+| 2025 | **시흥실록지리지 장려상** · 한국공학대학교 창업교육센터 | |
+| | 백엔드 프로젝트 **최우수 평가와 장학금** | MERCI |
 
-### Credentials & Programs
+## Activities
 
-- **GPA 4.21 / 4.3** · **TOEIC 925** · **ADsP** · **SQLD**
+- **대구광역시 대학생 파견단, 중국 청두 미래산업 연수** · 대구 12개 대학 24명 선발 · 2026.11
 - 카카오테크캠퍼스 4기 · IT 프로그래밍 동아리 해달
-- **대구광역시 대학생 파견단으로 중국 청두 미래산업 연수** — 대구 12개 대학 24명 선발 · 한중 혁신창업단지 창업 네트워킹, KOTRA 청두무역관 등 방문 · 2026.11
+- 프로젝트마다 `docs/`에 기획, 설계, 문제 해결, 검증 근거를 남깁니다 → [kakaotech-learning-log](https://github.com/TaeHuiKKIM/kakaotech-learning-log)
 
-## Links
-
-[![LinkedIn](https://img.shields.io/badge/프로필-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehui-kim-930713412/)
-[![Velog](https://img.shields.io/badge/개발%20기록-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kt_gml/posts)
-[![Solved.ac](https://img.shields.io/badge/알고리즘-Solved.ac-00C73C?style=for-the-badge)](https://solved.ac/1043tae/)
-[![Email](https://img.shields.io/badge/연락-tae1043@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tae1043@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taehui-kim-930713412/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kt_gml/posts)
+[![Solved.ac](https://img.shields.io/badge/Solved.ac-00C73C?style=for-the-badge)](https://solved.ac/1043tae/)
+[![Email](https://img.shields.io/badge/tae1043@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tae1043@gmail.com)
