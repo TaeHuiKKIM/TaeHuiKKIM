@@ -41,7 +41,7 @@
 | | |
 | --- | --- |
 | 🐜 **Antony Studio** | 토스 주식 투자 게임 「개미 투자자 키우기」 1인 개발, 출시, 운영 |
-| 💉 **백신알리미+** | 부모님 예방접종을 가족과 보건소가 함께 챙기는 GovTech 서비스 (CTO) |
+| 💉 **백신알리미+** | 부모님 예방접종을 가족과 보건소가 함께 챙기는 GovTech 우수상 수상 서비스 (CTO) |
 | 📇 **Gitory** | 커밋과 PR을 경험 카드와 자소서로 잇는 서비스 (FE 리드) |
 | 🔧 **Reqover** | 2026 오픈소스 개발자대회 동상, Spring 요청 추적 오픈소스 |
 
@@ -93,9 +93,9 @@ Apps in Toss에 출시해 **신규 게임, 시뮬레이션 분야 1위**에 올�
 
 <a id="dodal"></a>
 
-## 1. 💉 백신알리미+
+## 1. 💉 백신알리미+ — 2026 GovTech 우수상
 
-<sub>팀 도달(DODAL) · AI Tech Lead(CTO) · 2026 GovTech 아이디어 기획 · 강릉시 실증 MVP</sub>
+<sub>팀 도달(DODAL) · AI Tech Lead(CTO) · 2026 GovTech 우수상 · 강릉시 실증 MVP</sub>
 
 부모님 예방접종을 **보호자, 부모님, 보건소가 함께** 챙기는 서비스입니다.
 
@@ -471,6 +471,7 @@ GitHub 커밋과 PR을 **근거가 연결된 경험 카드**로 바꾸고, 공�
   <img src="assets/portfolio/kakaotech-ideathon-award.png" alt="카카오테크캠퍼스 아이디어톤 우수상" height="360"/>
 </p>
 
+- 🏅 **2026 GovTech 우수상** — 백신알리미+ · 팀 도달(DODAL)
 - 🥉 **2026 오픈소스 개발자대회 동상(후원기업상)** — Reqover<br/><sub>과학기술정보통신부 주최, 정보통신산업진흥원 주관</sub>
 - 🏆 **2026 Physical AI 경진대회 최우수상** — AWS DeepRacer<br/><sub>경북대 × 전남대</sub>
 - 🏆 **2026 CODE-MEDI 의료 AI, SW 융합 해커톤 최우수상** — Medirole<br/><sub>대한민국의학한림원</sub>
