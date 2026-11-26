@@ -45,7 +45,7 @@
 | 📇 **Gitory** | 커밋과 PR을 경험 카드와 자소서로 잇는 서비스 (FE 리드) |
 | 🔧 **Reqover** | 2026 오픈소스 개발자대회 동상, Spring 요청 추적 오픈소스 |
 
-<sub>[Antony Studio](#antony-studio) · [백신알리미+](#dodal) · [Gitory](#gitory) · [Reqover](#reqover) · [TUG GUARD](#tugguard) · [Members Clinic](#members) · [GROOVE](#groove) · [금융 AI](#kb) · [Medirole](#medirole)</sub>
+<sub>[Antony Studio](#antony-studio) · [백신알리미+](#dodal) · [Gitory](#gitory) · [Reqover](#reqover) · [TUG GUARD](#tugguard) · [Members Clinic](#members) · [GROOVE](#groove) · [크누타운 · LAN Kit](#knu-town) · [금융 AI](#kb) · [Medirole](#medirole)</sub>
 
 ---
 
@@ -64,9 +64,9 @@ Apps in Toss에 출시해 **신규 게임, 시뮬레이션 분야 1위**에 올�
 
 | 누적 이용자 | D1 리텐션 | D7 리텐션 | 유료 결제 |
 | :---: | :---: | :---: | :---: |
-| **58,716명** | **46.51%** | **32.34%** | **676건** |
+| **66,069명** | **46.51%** | **32.34%** | **676건** |
 
-<sub>누적 이용자 2026.11.09 기준, 나머지 2026.10.13 기준 · Threads 519,443회 조회</sub>
+<sub>누적 이용자 2026.11.26 기준, 나머지 2026.10.13 기준 · Threads 519,443회 조회</sub>
 
 <p align="center">
   <img src="https://antonystudio.kr/images/ant-v777-banner-1200.webp" alt="개미 투자자 키우기 — 두 다리 개미의 성장과 투자" width="680"/>
@@ -433,6 +433,37 @@ GitHub 커밋과 PR을 **근거가 연결된 경험 카드**로 바꾸고, 공�
 </p>
 
 기술: React, FastAPI, WebSocket, Supabase, Gemini Structured Output, Docker
+
+</details>
+
+---
+
+<a id="knu-town"></a>
+
+## 12. 🏫 크누타운 & Campus LAN Kit — 캠퍼스 멀티플레이와 로컬 통신
+
+<sub>노트북 호스트 · HTTP POST / SSE · 브라우저 멀티플레이 · 오픈소스 MIT</sub>
+
+같은 학교 Wi-Fi에서 친구와 만나고 공부하는 **캠퍼스 멀티플레이 게임**을 만들고, 통신 구조를 다른 프로젝트에서도 쓸 수 있는 **로컬 통신 키트**로 분리했습니다.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TaeHuiKKIM/knu-town-community/main/docs/images/plaza-game.webp" alt="크누타운 — 경북대 일청담 광장에서 만나는 두 참가자" width="760"/>
+</p>
+
+- **크누타운:** 이동·채팅·도서관 착석·공부 기록·옷장을 연결하고, 휴대폰과 노트북이 같은 방에서 플레이하도록 구현했습니다.
+- **현장에서 해결:** 같은 Wi-Fi인데도 접속되지 않던 문제를 주소 대역과 호스트 방화벽 허용 범위로 나눠 확인했습니다. 교내 실험에서 팀원 3명의 통신을 확인했습니다.
+- **Campus LAN Kit:** 방·세션·이동·채팅·재접속을 서버 코어와 브라우저 클라이언트로 분리했습니다. **외부 의존성 없이** Node.js로 실행하며, 사용자 정의 게임 상태를 붙일 수 있습니다.
+- **전달 비용 줄이기:** 행동은 POST로 받고 변경 상태는 SSE로 전달합니다. 연속 이동을 묶고, 바뀐 상태를 중심으로 전송하도록 개선했습니다.
+
+[크누타운 웹 광장](https://knu-direct-plaza.vercel.app/?mode=web) · [게임 저장소](https://github.com/TaeHuiKKIM/knu-town-community) · [로컬 통신 키트](https://github.com/TaeHuiKKIM/campus-lan-kit)
+
+<details>
+<summary>통신 구조와 검증 범위</summary>
+
+- 키트의 `createHub`는 HTTP와 독립적으로 방·행동·구독을 처리하고, `createLanServer`가 JSON API와 SSE를 연결합니다. 방 격리, 입력·정원·빈도 제한, 입장 재시도와 세션 만료를 포함합니다.
+- 크누타운은 별도 루프백 부하 검사에서 **모의 참가자 100명**의 입장·상태 전달·채팅과 만석 처리를 확인했습니다. 이는 현장 휴대폰 100대 검증과 구분합니다.
+- 키트 공개판은 로컬 HTTP 클라이언트 3개와 데스크톱·모바일 브라우저로 이동·채팅·재접속을 확인했습니다. 교내망 실기기 재시험은 별도입니다.
+- [교내망 실험과 부하 측정](https://github.com/TaeHuiKKIM/knu-town-community/blob/main/docs/network-research.md) · [키트 검증 기록](https://github.com/TaeHuiKKIM/campus-lan-kit/blob/main/docs/verification.md)
 
 </details>
 
