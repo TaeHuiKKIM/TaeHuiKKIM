@@ -69,11 +69,11 @@ Apps in Toss에 출시해 **신규 게임, 시뮬레이션 분야 1위**에 올�
 <sub>누적 이용자 2026.11.09 기준, 나머지 2026.10.13 기준 · Threads 519,443회 조회</sub>
 
 <p align="center">
-  <img src="https://antonystudio.kr/images/ant-banner-20261126-1200.webp" alt="개미 투자자 키우기 — 두 다리 개미의 성장과 투자" width="680"/>
+  <img src="https://antonystudio.kr/images/ant-v777-banner-1200.webp" alt="개미 투자자 키우기 — 두 다리 개미의 성장과 투자" width="680"/>
 </p>
 <p align="center">
-  <img src="https://antonystudio.kr/images/ant-home-20261126-390.webp" alt="개미 투자자 키우기 — 두 다리 개미와 최신 홈 메뉴" height="440"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://antonystudio.kr/images/ant-invest-20261126-390.webp" alt="개미 투자자 키우기 — 국내·해외 주식, 코인, 은행을 모은 투자 화면" height="440"/>
+  <img src="https://antonystudio.kr/images/ant-v777-home-390.webp" alt="개미 투자자 키우기 — 두 다리 개미와 최신 홈 메뉴" height="440"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://antonystudio.kr/images/ant-v777-invest-390.webp" alt="개미 투자자 키우기 — 국내·해외 주식, 코인, 은행을 모은 투자 화면" height="440"/>
 </p>
 
 - **성장 루프:** 출근 → 투자 → 진화 → 꾸미기로 이어지며 다시 접속할 이유를 만들었습니다.
